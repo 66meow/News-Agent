@@ -1,7 +1,50 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-18 08:50
+**最后更新时间**: 2026-02-18 16:33
+
+---
+
+## 🆕 最新更新 (2026-02-18 16:33)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [8 ways you may be squandering money in retirement](https://www.marketwatch.com/story/8-ways-to-keep-from-blowing-through-your-money-in-retirement-a9177a18?mod=mw_rss_topstories)
+**发布时间**: 2026-02-18 16:06
+
+#### [Moderna got the FDA to change its mind and review its flu vaccine after some concessions](https://www.marketwatch.com/story/moderna-got-the-fda-to-change-its-mind-and-review-its-flu-vaccine-after-some-concessions-04c3f38e?mod=mw_rss_topstories)
+**发布时间**: 2026-02-18 15:22
+
+#### [Why a 40-year Wall Street veteran is telling clients to sell everything American](https://www.marketwatch.com/story/why-a-40-year-wall-street-veteran-is-telling-clients-to-sell-everything-american-77e50ae5?mod=mw_rss_topstories)
+**发布时间**: 2026-02-18 15:11
+
+#### [My small church wants to sell some property, but the trustees can’t agree on what to do with the money](https://www.marketwatch.com/story/my-small-church-wants-to-sell-some-property-but-the-trustees-cant-agree-on-what-to-do-with-the-money-eb09b083?mod=mw_rss_topstories)
+**发布时间**: 2026-02-18 15:00
+
+#### [Housing starts jump to highest level in five months, showing momentum going into the new year](https://www.marketwatch.com/story/housing-starts-jump-to-highest-level-in-five-months-showing-surprising-momentum-into-the-new-year-79b407cb?mod=mw_rss_topstories)
+**发布时间**: 2026-02-18 14:55
+
+#### [‘This is stressful’: My siblings are financial horrors. Should my parents cut them out of their will?](https://www.marketwatch.com/story/this-is-stressful-my-two-siblings-are-financial-horrors-how-can-i-make-sure-their-estate-goes-to-the-right-people-4842a5a7?mod=mw_rss_topstories)
+**发布时间**: 2026-02-18 14:30
+
+#### [The surprising reason the U.S. economy is growing so fast](https://www.marketwatch.com/story/the-u-s-economy-is-growing-surprisingly-fast-and-heres-the-surprising-reason-why-8b2698a9?mod=mw_rss_topstories)
+**发布时间**: 2026-02-18 14:30
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Reform UK would bring back two-child benefit cap, says Jenrick](https://www.ft.com/content/8cc521b9-eb91-4280-97f5-4031c36f1a42)
+**发布时间**: 2026-02-18 15:48
+
+#### [Spain first to enter race for Lagarde succession at ECB](https://www.ft.com/content/40edff13-2ee6-4452-81c7-d2dd2201d4fc)
+**发布时间**: 2026-02-18 14:37
+
+#### [UCL students win £21mn over Covid disruption in watershed settlement](https://www.ft.com/content/a0cfc270-4dcc-46a6-a87d-6f002f889ca2)
+**发布时间**: 2026-02-18 14:03
+
+#### [Maga will regret embracing Europe’s hard right](https://www.ft.com/content/0baf4e30-3501-4aec-a189-5c49e40908aa)
+**发布时间**: 2026-02-18 13:45
+
+#### [Lagarde to leave ECB before end of 8-year term](https://www.ft.com/content/30bcb221-700e-4643-9ed5-dd9432c5be7c)
+**发布时间**: 2026-02-18 07:54
 
 ---
 

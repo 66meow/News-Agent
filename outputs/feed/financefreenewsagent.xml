@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 18 Feb 2026 08:50:00 GMT</pubDate>
-    <lastBuildDate>Wed, 18 Feb 2026 08:50:01 GMT</lastBuildDate>
+    <pubDate>Wed, 18 Feb 2026 16:33:00 GMT</pubDate>
+    <lastBuildDate>Wed, 18 Feb 2026 16:33:27 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,19 +14,91 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>UK inflation falls sharply to 3% in January</title>
-      <link>https://www.ft.com/content/5425e44c-8760-4639-9305-2038de8825a9</link>
-      <description>&lt;![CDATA[UK inflation falls sharply to 3% in January]]&gt;</description>
-      <pubDate>Wed, 18 Feb 2026 08:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/5425e44c-8760-4639-9305-2038de8825a9</guid>
+      <title>8 ways you may be squandering money in retirement</title>
+      <link>https://www.marketwatch.com/story/8-ways-to-keep-from-blowing-through-your-money-in-retirement-a9177a18?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[8 ways you may be squandering money in retirement]]&gt;</description>
+      <pubDate>Wed, 18 Feb 2026 16:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/8-ways-to-keep-from-blowing-through-your-money-in-retirement-a9177a18?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Lagarde to leave ECB before the end of 8-year term</title>
-      <link>https://www.ft.com/content/30bcb221-700e-4643-9ed5-dd9432c5be7c</link>
-      <description>&lt;![CDATA[Lagarde to leave ECB before the end of 8-year term]]&gt;</description>
-      <pubDate>Wed, 18 Feb 2026 07:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/30bcb221-700e-4643-9ed5-dd9432c5be7c</guid>
+      <title>Moderna got the FDA to change its mind and review its flu vaccine after some concessions</title>
+      <link>https://www.marketwatch.com/story/moderna-got-the-fda-to-change-its-mind-and-review-its-flu-vaccine-after-some-concessions-04c3f38e?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Moderna got the FDA to change its mind and review its flu vaccine after some concessions]]&gt;</description>
+      <pubDate>Wed, 18 Feb 2026 15:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/moderna-got-the-fda-to-change-its-mind-and-review-its-flu-vaccine-after-some-concessions-04c3f38e?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Why a 40-year Wall Street veteran is telling clients to sell everything American</title>
+      <link>https://www.marketwatch.com/story/why-a-40-year-wall-street-veteran-is-telling-clients-to-sell-everything-american-77e50ae5?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Why a 40-year Wall Street veteran is telling clients to sell everything American]]&gt;</description>
+      <pubDate>Wed, 18 Feb 2026 15:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/why-a-40-year-wall-street-veteran-is-telling-clients-to-sell-everything-american-77e50ae5?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>My small church wants to sell some property, but the trustees can’t agree on what to do with the money</title>
+      <link>https://www.marketwatch.com/story/my-small-church-wants-to-sell-some-property-but-the-trustees-cant-agree-on-what-to-do-with-the-money-eb09b083?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[My small church wants to sell some property, but the trustees can’t agree on what to do with the money]]&gt;</description>
+      <pubDate>Wed, 18 Feb 2026 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/my-small-church-wants-to-sell-some-property-but-the-trustees-cant-agree-on-what-to-do-with-the-money-eb09b083?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Housing starts jump to highest level in five months, showing momentum going into the new year</title>
+      <link>https://www.marketwatch.com/story/housing-starts-jump-to-highest-level-in-five-months-showing-surprising-momentum-into-the-new-year-79b407cb?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Housing starts jump to highest level in five months, showing momentum going into the new year]]&gt;</description>
+      <pubDate>Wed, 18 Feb 2026 14:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/housing-starts-jump-to-highest-level-in-five-months-showing-surprising-momentum-into-the-new-year-79b407cb?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>‘This is stressful’: My siblings are financial horrors. Should my parents cut them out of their will?</title>
+      <link>https://www.marketwatch.com/story/this-is-stressful-my-two-siblings-are-financial-horrors-how-can-i-make-sure-their-estate-goes-to-the-right-people-4842a5a7?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[‘This is stressful’: My siblings are financial horrors. Should my parents cut them out of their will?]]&gt;</description>
+      <pubDate>Wed, 18 Feb 2026 14:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/this-is-stressful-my-two-siblings-are-financial-horrors-how-can-i-make-sure-their-estate-goes-to-the-right-people-4842a5a7?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>The surprising reason the U.S. economy is growing so fast</title>
+      <link>https://www.marketwatch.com/story/the-u-s-economy-is-growing-surprisingly-fast-and-heres-the-surprising-reason-why-8b2698a9?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[The surprising reason the U.S. economy is growing so fast]]&gt;</description>
+      <pubDate>Wed, 18 Feb 2026 14:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/the-u-s-economy-is-growing-surprisingly-fast-and-heres-the-surprising-reason-why-8b2698a9?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Reform UK would bring back two-child benefit cap, says Jenrick</title>
+      <link>https://www.ft.com/content/8cc521b9-eb91-4280-97f5-4031c36f1a42</link>
+      <description>&lt;![CDATA[Reform UK would bring back two-child benefit cap, says Jenrick]]&gt;</description>
+      <pubDate>Wed, 18 Feb 2026 15:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/8cc521b9-eb91-4280-97f5-4031c36f1a42</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Spain first to enter race for Lagarde succession at ECB</title>
+      <link>https://www.ft.com/content/40edff13-2ee6-4452-81c7-d2dd2201d4fc</link>
+      <description>&lt;![CDATA[Spain first to enter race for Lagarde succession at ECB]]&gt;</description>
+      <pubDate>Wed, 18 Feb 2026 14:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/40edff13-2ee6-4452-81c7-d2dd2201d4fc</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>UCL students win £21mn over Covid disruption in watershed settlement</title>
+      <link>https://www.ft.com/content/a0cfc270-4dcc-46a6-a87d-6f002f889ca2</link>
+      <description>&lt;![CDATA[UCL students win £21mn over Covid disruption in watershed settlement]]&gt;</description>
+      <pubDate>Wed, 18 Feb 2026 14:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/a0cfc270-4dcc-46a6-a87d-6f002f889ca2</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Maga will regret embracing Europe’s hard right</title>
+      <link>https://www.ft.com/content/0baf4e30-3501-4aec-a189-5c49e40908aa</link>
+      <description>&lt;![CDATA[Maga will regret embracing Europe’s hard right]]&gt;</description>
+      <pubDate>Wed, 18 Feb 2026 13:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/0baf4e30-3501-4aec-a189-5c49e40908aa</guid>
       <category>Finance</category>
     </item>
   </channel>
