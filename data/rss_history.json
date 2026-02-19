@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "09afe0d0bf8dfa2f05ab4b42225f646ef92f820b1eee8963c9e69f02d368526b": {
-        "title": "纳德拉达沃斯发出警示：GDP增长将与“每美元每瓦特产生的算力”直接相关",
-        "link": "https://www.tmtpost.com/7849618.html",
-        "published_date": "Tue, 20 Jan 2026 19:57:00 GMT",
-        "first_seen": "2026-01-20T23:26:07.611472"
-      },
-      "8b9ba198fc4b260458f1678ce9906cbca0023915b6add7432ac9eada9afa3594": {
-        "title": "ASML股价受贸易战担忧拖累下跌，多家芯片企业亦受波及",
-        "link": "https://www.tmtpost.com/7848861.html",
-        "published_date": "Tue, 20 Jan 2026 10:57:00 GMT",
-        "first_seen": "2026-01-20T23:26:07.611479"
-      },
-      "066d91b57ad756ffa880f56a95286ed0962374327a2d9184689db960658cfb77": {
-        "title": "智元首席科学家罗剑岚：2026年挖出真实场景的Scaling law，全系机器人将上线“新系统”",
-        "link": "https://www.infoq.cn/article/wJjaPXC8rLTxLTeOjLZ0?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 20 Jan 2026 17:55:00 GMT",
-        "first_seen": "2026-01-20T23:26:07.611481"
-      },
-      "10a809fd36d8eea2c617f3aaff8b04cdd3158ed1f9be3216f9932471dc75198a": {
-        "title": "AI手机的终极猜想：超级Agent入口",
-        "link": "https://www.tmtpost.com/7849413.html",
-        "published_date": "Tue, 20 Jan 2026 19:55:00 GMT",
-        "first_seen": "2026-01-20T23:26:07.611483"
-      },
-      "762d40a193541abf421d39cdf3959efec797d639906fb67aa5bb622c7c2abb7d": {
-        "title": "“中国Space X\"集体冲刺IPO，商业航天的高估值/市值最终谁买单？",
-        "link": "https://www.tmtpost.com/7849092.html",
-        "published_date": "Tue, 20 Jan 2026 21:43:00 GMT",
-        "first_seen": "2026-01-20T23:26:07.611484"
-      },
       "73d969e80efa862e9bffe593c118eab2db48779cbf83798b6af6a49284d555bb": {
         "title": "GDP增长将取决于Tokens数量？微软CEO纳德拉达沃斯对话信息量太大了……",
         "link": "https://www.tmtpost.com/7849912.html",
@@ -2791,39 +2761,15 @@
         "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247531516&idx=1&sn=b2f05e6fbbbcc8525df191034a176c4d",
         "published_date": "Thu, 19 Feb 2026 12:12:00 GMT",
         "first_seen": "2026-02-19T08:57:18.326804"
+      },
+      "865a7b7029b0097025247fda5b10ec8bc89e142e3a532a20099386744d72d2bd": {
+        "title": "2026第一个爆火的目的地出现了",
+        "link": "https://www.tmtpost.com/7884787.html",
+        "published_date": "Thu, 19 Feb 2026 19:46:00 GMT",
+        "first_seen": "2026-02-19T23:44:04.598599"
       }
     },
     "Finance": {
-      "00ab1f1b84120295e480714d201138eccfaca885e03292e2a2104c0c9ab6a546": {
-        "title": "Here’s how much risk the U.S. faces if global investors ‘weaponize’ American stocks and bonds",
-        "link": "https://www.marketwatch.com/story/heres-how-much-risk-the-u-s-faces-if-global-investors-weaponize-american-stocks-and-bonds-813f5204?mod=mw_rss_topstories",
-        "published_date": "Tue, 20 Jan 2026 21:37:00 GMT",
-        "first_seen": "2026-01-20T23:25:23.764554"
-      },
-      "7efef8403cd8a39f3fd237281cf588f8d462bf8390fc4511ade40bc738b5c3e5": {
-        "title": "Trade war redux? Greenland dispute threatens $1 trillion in trade between U.S. and Europe.",
-        "link": "https://www.marketwatch.com/story/trade-war-redux-greenland-dispute-threatens-1-trillion-in-trade-between-u-s-and-europe-c7e1a159?mod=mw_rss_topstories",
-        "published_date": "Tue, 20 Jan 2026 21:23:00 GMT",
-        "first_seen": "2026-01-20T23:25:23.764562"
-      },
-      "ce8fb3cb3b4f9976afe35767c14b443cd97a9cc87dbd1ea2e05a042745683cb1": {
-        "title": "The world’s economy — past, present and future",
-        "link": "https://www.ft.com/content/0a2fadfe-db3e-40c9-8711-4c4072ce3559",
-        "published_date": "Tue, 20 Jan 2026 16:42:00 GMT",
-        "first_seen": "2026-01-20T23:25:23.764565"
-      },
-      "6585cbe9612c7b2389d3a665a90485b9976bf7b3ea1608c1c4db5b54607d2dc2": {
-        "title": "‘Sell America’ trade makes a comeback as U.S. stocks see biggest drop in months. Here’s what investors need to know.",
-        "link": "https://www.marketwatch.com/story/the-sell-america-trade-is-making-a-comeback-but-investors-are-selling-most-everything-else-too-a2f6da9a?mod=mw_rss_topstories",
-        "published_date": "Tue, 20 Jan 2026 22:03:00 GMT",
-        "first_seen": "2026-01-20T23:25:23.764568"
-      },
-      "1aa0d2f1a65515b8e1de9f8b0baa24a470ca2ec1bd00acfa7bcaaf8f3509ae4f": {
-        "title": "BoE governor warns of market spillovers from Trump’s actions",
-        "link": "https://www.ft.com/content/8c0ad9b5-3311-410c-9bb4-734b128ab0f2",
-        "published_date": "Tue, 20 Jan 2026 17:46:00 GMT",
-        "first_seen": "2026-01-20T23:25:23.764570"
-      },
       "f96a736613623dcdb6c804914fe5a517d8715ae7e442cc98d5a188e8acd58a38": {
         "title": "Kraft Heinz stock falls as Berkshire Hathaway may sell off nearly its entire stake",
         "link": "https://www.marketwatch.com/story/kraft-heinz-stock-falls-as-berkshire-hathaway-may-sell-off-nearly-its-entire-stake-55623e91?mod=mw_rss_topstories",
@@ -4929,39 +4875,141 @@
         "link": "https://www.ft.com/content/ef281426-e417-4675-9f5c-6d8bdaabb987",
         "published_date": "Thu, 19 Feb 2026 08:38:00 GMT",
         "first_seen": "2026-02-19T08:57:18.374170"
+      },
+      "78ac0f45ce6d235609215a1d7c7caea1085e406cf9469d08c647283debb6bbc0": {
+        "title": "Wayfair’s stock sinks, as investors worry expansion plans will hurt profits",
+        "link": "https://www.marketwatch.com/story/wayfairs-stock-sinks-as-investors-worry-expansion-plans-will-hurt-profits-6c362879?mod=mw_rss_topstories",
+        "published_date": "Thu, 19 Feb 2026 23:20:00 GMT",
+        "first_seen": "2026-02-19T23:44:04.372223"
+      },
+      "8309e595486282261a497a171cba299569941092e603ba6a39e7dab358d1df9b": {
+        "title": "United Airlines’ best loyalty perks will soon be reserved for its cardholders. Is the card worth it?",
+        "link": "https://www.marketwatch.com/story/united-airlines-best-loyalty-perks-will-soon-be-reserved-for-its-cardholders-is-the-card-worth-it-39675942?mod=mw_rss_topstories",
+        "published_date": "Thu, 19 Feb 2026 22:54:00 GMT",
+        "first_seen": "2026-02-19T23:44:04.372231"
+      },
+      "85f14d94dc4146940882616d05c39e66b616ba2ade641cb1d2e8db35bdacde1f": {
+        "title": "Why your portfolio may face one last rate-hike surprise before May",
+        "link": "https://www.marketwatch.com/story/why-the-fed-could-deliver-one-final-sting-to-your-portfolio-before-powells-exit-in-may-de2e8f28?mod=mw_rss_topstories",
+        "published_date": "Thu, 19 Feb 2026 22:48:00 GMT",
+        "first_seen": "2026-02-19T23:44:04.372234"
+      },
+      "b17eadf9e6f62893523013c6f8434f9d0c5edaea9068064c6d007411589afb75": {
+        "title": "‘Many politicians work well into their 80s’: I’m 71 and earn $300K for a Fortune 200 company. Do I work until I’m 75?",
+        "link": "https://www.marketwatch.com/story/many-politicians-work-well-into-their-80s-im-71-and-earn-300k-for-a-fortune-200-company-do-i-work-until-im-75-6b5e6baf?mod=mw_rss_topstories",
+        "published_date": "Thu, 19 Feb 2026 22:43:00 GMT",
+        "first_seen": "2026-02-19T23:44:04.372235"
+      },
+      "8954b7e013fdcd3493880e019bf14c830395df8b34b7f9103c86369a3cf5895e": {
+        "title": "People still want to see BTS and Harry Styles concerts, lifting Live Nation’s sales",
+        "link": "https://www.marketwatch.com/story/people-still-want-to-see-bts-and-harry-styles-concerts-lifting-live-nations-sales-eee12233?mod=mw_rss_topstories",
+        "published_date": "Thu, 19 Feb 2026 22:21:00 GMT",
+        "first_seen": "2026-02-19T23:44:04.372237"
+      },
+      "b610c1ad28e5deac99101afb6fe0a744b55699ffa50ccaffeb9bffa4f291ce17": {
+        "title": "4 reasons cybersecurity stocks are primed for a breakout",
+        "link": "https://www.marketwatch.com/story/4-reasons-why-cybersecurity-stocks-are-primed-for-a-turnaround-d9b17f85?mod=mw_rss_topstories",
+        "published_date": "Thu, 19 Feb 2026 21:54:00 GMT",
+        "first_seen": "2026-02-19T23:44:04.372238"
+      },
+      "c1da3e702f4948a85efc2f242edcd33cd815957dd183135a39610bef113cd5c9": {
+        "title": "This is the sobering way most Americans plan to use their tax refunds this year",
+        "link": "https://www.marketwatch.com/story/this-is-the-sobering-way-most-americans-plan-to-use-their-tax-refunds-this-year-cd7c585d?mod=mw_rss_topstories",
+        "published_date": "Thu, 19 Feb 2026 21:52:00 GMT",
+        "first_seen": "2026-02-19T23:44:04.372240"
+      },
+      "7303c4328634bc8a4e808452bfded6abd4024213d1684a67d99c59e795f7414c": {
+        "title": "Nvidia options are priced for a perfect earnings outlook. These are your smarter trades.",
+        "link": "https://www.marketwatch.com/story/nvidia-options-are-priced-for-a-perfect-earnings-outlook-these-are-your-smarter-trades-4cac5291?mod=mw_rss_topstories",
+        "published_date": "Thu, 19 Feb 2026 21:52:00 GMT",
+        "first_seen": "2026-02-19T23:44:04.372241"
+      },
+      "6d5f4187028913ca8756fa9bb14ffc8fc1a82678893af30444aed6562453d59e": {
+        "title": "Say goodbye to the 4 p.m. closing bell: Your stocks are becoming 24/7 digital cash",
+        "link": "https://www.marketwatch.com/story/say-goodbye-to-the-4-p-m-closing-bell-your-stocks-are-becoming-24-7-digital-cash-c78721df?mod=mw_rss_topstories",
+        "published_date": "Thu, 19 Feb 2026 21:51:00 GMT",
+        "first_seen": "2026-02-19T23:44:04.372243"
+      },
+      "025cebb134a823d3a5e3659139e3d5c1262351a40a09d21aa0011f8e87a6a7a3": {
+        "title": "Trump’s tariffs may be struck down — but the hit to small business is just beginning",
+        "link": "https://www.marketwatch.com/story/why-americas-small-businesses-still-pay-even-if-the-supreme-court-strikes-down-trumps-tariffs-5c0bb1d6?mod=mw_rss_topstories",
+        "published_date": "Thu, 19 Feb 2026 21:50:00 GMT",
+        "first_seen": "2026-02-19T23:44:04.372244"
+      },
+      "d25ddf54ab5ae05f38aecfd993263638ecf129c16a00608e0b980645a87f7a73": {
+        "title": "Trump gives Iran 15 days to strike a deal or ‘bad things will happen’",
+        "link": "https://www.ft.com/content/0b47afe6-6e99-4665-8f25-2aa20f7e09b9",
+        "published_date": "Thu, 19 Feb 2026 23:02:00 GMT",
+        "first_seen": "2026-02-19T23:44:04.372245"
+      },
+      "ca31d60168014fe8c5560e6e34acccb93fb101188e1da953e24ccd1caff9f0b4": {
+        "title": "Meta cuts staff stock awards for a second straight year",
+        "link": "https://www.ft.com/content/071d5503-b3dc-46bc-bc55-28f92dbdd42a",
+        "published_date": "Thu, 19 Feb 2026 22:43:00 GMT",
+        "first_seen": "2026-02-19T23:44:04.372247"
+      },
+      "427ff73dce4ad065e0fea528c3d2951672539603311909ec6e4af8b5c2ef194e": {
+        "title": "Andrew Mountbatten-Windsor released under investigation after Epstein revelations",
+        "link": "https://www.ft.com/content/786c8f0b-8e6a-479f-b207-b2e0fcbe018e",
+        "published_date": "Thu, 19 Feb 2026 22:30:00 GMT",
+        "first_seen": "2026-02-19T23:44:04.372248"
+      },
+      "bc81fa6c6d5dea4b46b0ec30e3974ea0f8da605a5ba1b15f54133cab9725c8ff": {
+        "title": "Bank of America commits $25bn to private credit lending",
+        "link": "https://www.ft.com/content/faedf9f9-6e73-457c-b073-bcd46ed780c7",
+        "published_date": "Thu, 19 Feb 2026 22:06:00 GMT",
+        "first_seen": "2026-02-19T23:44:04.372249"
+      },
+      "3d0444cecaaf61d21f41a87a7af63584cba0e86d5c897e206fc09f99a9e90657": {
+        "title": "Private credit stocks slide after Blue Owl halts redemptions at fund",
+        "link": "https://www.ft.com/content/cdca18df-473c-4c66-a6db-d9be32bf9d88",
+        "published_date": "Thu, 19 Feb 2026 21:07:00 GMT",
+        "first_seen": "2026-02-19T23:44:04.372251"
+      },
+      "673575349e4a02c5274af47b3d83a2323cb0e87e3657fbe2340dce4617ce1ee0": {
+        "title": "Nando’s and KFC among 8 UK restaurant chains to drop chicken welfare pledge",
+        "link": "https://www.ft.com/content/1d031421-c10d-4e12-90c0-c2381d026f2a",
+        "published_date": "Thu, 19 Feb 2026 20:34:00 GMT",
+        "first_seen": "2026-02-19T23:44:04.372252"
+      },
+      "6b8a3c624054d1a3ec30f3297fa54ee0aad1b6d21ba16bd1453b34170d43d68c": {
+        "title": "UK signalled reluctance over allowing US to use British bases for possible Iran strike",
+        "link": "https://www.ft.com/content/d06e8cbc-2150-402d-ba4a-b0cf03c98f95",
+        "published_date": "Thu, 19 Feb 2026 20:21:00 GMT",
+        "first_seen": "2026-02-19T23:44:04.372253"
+      },
+      "a5cde627ddeed159465d8b1e4f00f8f770a8ff80ffd6d28d967eae2dfdbd97ee": {
+        "title": "What does Andrew Mountbatten-Windsor’s arrest mean?",
+        "link": "https://www.ft.com/content/a5ead6d6-29c2-42a2-ab09-cbc0cfba208b",
+        "published_date": "Thu, 19 Feb 2026 20:15:00 GMT",
+        "first_seen": "2026-02-19T23:44:04.372255"
+      },
+      "c567d8d671d54f2b1aa0db6f6fbb346bf4526ceaf82c87b6dce41bac5a4c7551": {
+        "title": "Why Iran is betting on war",
+        "link": "https://www.ft.com/content/6432bedc-1d22-4e21-9d8d-04f38bcf579b",
+        "published_date": "Thu, 19 Feb 2026 18:45:00 GMT",
+        "first_seen": "2026-02-19T23:44:04.372256"
+      },
+      "79dde39e2059fe357dd7444a796b3c57aa7b1384f0628166b2422c77b7e21cbc": {
+        "title": "The race to avert a US-Iran war",
+        "link": "https://www.ft.com/content/7b6e8aa1-45aa-4304-a58f-34368801c8d0",
+        "published_date": "Thu, 19 Feb 2026 16:59:00 GMT",
+        "first_seen": "2026-02-19T23:44:04.372257"
+      },
+      "a4b4cb3ee92d4485bc5785dab0833cbaeae5fcf44f6f99cb3d2e98111eb86827": {
+        "title": "Mandelson-founded advisory firm Global Counsel to go into administration",
+        "link": "https://www.ft.com/content/ad5d5713-70f9-443d-b53b-f43c5136200d",
+        "published_date": "Thu, 19 Feb 2026 14:08:00 GMT",
+        "first_seen": "2026-02-19T23:44:04.372258"
+      },
+      "b2e24dbce47acf8b9b1eefe1422fd70ef3b8a6e83c286ae80d8609e13ffeda75": {
+        "title": "The Conservatives’ foundational sin",
+        "link": "https://www.ft.com/content/0fe4b47e-2c75-4ebc-9dbd-bd939661894d",
+        "published_date": "Thu, 19 Feb 2026 13:30:00 GMT",
+        "first_seen": "2026-02-19T23:44:04.372260"
       }
     },
     "Ai": {
-      "80d1eb905b6207a6321db1347c42adaf1c099ea04405df15ccdcce85229a47f5": {
-        "title": "马斯克刚刚真把 𝕏 平台推荐算法给开源了，核心也是Transformer",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-20-13",
-        "published_date": "Tue, 20 Jan 2026 20:44:00 GMT",
-        "first_seen": "2026-01-20T23:25:43.482648"
-      },
-      "5ae11d713e65247a3f01a41e654c97bdc82241a29c2f82ae645207a66a6af70d": {
-        "title": "当黄仁勋将存储定义为「AI运行内存」，基础设施该如何实现物种进化？",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-20-11",
-        "published_date": "Tue, 20 Jan 2026 18:35:00 GMT",
-        "first_seen": "2026-01-20T23:25:43.482654"
-      },
-      "23346bc45b4d94f684a8bc7a136090bdbe47f5edbafe82e70cbbe031cd4bf511": {
-        "title": "智谱新模型也用DeepSeek的MLA，苹果M5就能跑",
-        "link": "https://www.qbitai.com/2026/01/370652.html",
-        "published_date": "Tue, 20 Jan 2026 09:19:00 GMT",
-        "first_seen": "2026-01-20T23:25:43.482656"
-      },
-      "2bf13e9f7a16ffd039403ace28bf0bb9b85c192b811f9b771754509439e0a9c4": {
-        "title": "从平面几何出发：形式化验证如何驱动MLLM的推理能力跃迁",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-20-10",
-        "published_date": "Tue, 20 Jan 2026 18:27:00 GMT",
-        "first_seen": "2026-01-20T23:25:43.482658"
-      },
-      "1c33fdd8bc6473bc7173cd46b54dd7d623b28d41246b08c7af7fefbb5e56c5ee": {
-        "title": "美团卡姐接管无人车，MIT博士离职创业具身智能",
-        "link": "https://www.qbitai.com/2026/01/370599.html",
-        "published_date": "Tue, 20 Jan 2026 08:42:00 GMT",
-        "first_seen": "2026-01-20T23:25:43.482660"
-      },
       "4f9d20d5449f4f39faa8c1422660747480be0536202e00f532bb0937577da152": {
         "title": "AAAI 2026 Oral | 告别注意力与热传导！北大清华提出WaveFormer，首创波动方程建模视觉",
         "link": "https://www.jiqizhixin.com/articles/2026-01-21",
@@ -7073,13 +7121,55 @@
         "link": "https://www.qbitai.com/2026/02/381415.html",
         "published_date": "Thu, 19 Feb 2026 06:11:00 GMT",
         "first_seen": "2026-02-19T08:57:18.495806"
+      },
+      "b3e72b40158361aa34b27f5304d9c62adef50a970fa8d7fa47db43e2a78e659e": {
+        "title": "春晚宇树四分半：全球人形机器人一哥的功夫梦",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-19-5",
+        "published_date": "Thu, 19 Feb 2026 21:02:00 GMT",
+        "first_seen": "2026-02-19T23:44:04.542471"
+      },
+      "9e78e5c53a53a8b28081f1d9237e976e737ce20ec2ea2eb19c3c8ec52dd95545": {
+        "title": "让AI智能体「记住」失败经验：微软提出Re-TRAC框架，4B性能SOTA，30B超越358B",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-19-4",
+        "published_date": "Thu, 19 Feb 2026 20:57:00 GMT",
+        "first_seen": "2026-02-19T23:44:04.542478"
+      },
+      "a1681f919176a67f9ff354bb64bb31e804f418be64206808f139a8831a9640a8": {
+        "title": "ICLR 2026 | 数据缺少标注，RL还能稳定诱导模型推理吗？Co-rewarding提供自监督RL学习方案！",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-19-3",
+        "published_date": "Thu, 19 Feb 2026 20:48:00 GMT",
+        "first_seen": "2026-02-19T23:44:04.542480"
+      },
+      "0e2ec68a18df64b4abd2b886e7efb52ffa6858340d8c11c8fc8a3b5b9a6044ca": {
+        "title": "OpenAI偷偷改使命：不再「造福人类」，安全都删了",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-19-2",
+        "published_date": "Thu, 19 Feb 2026 20:30:00 GMT",
+        "first_seen": "2026-02-19T23:44:04.542481"
+      },
+      "cda76dc44c8645979acc5a52ca85f7855fdf49eb6152baadd37098ce8d5b9315": {
+        "title": "Nature 重磅：上海交大人工智能学院×新华医院「梦之队」，如何用 AI 智能体终结罕见病确诊的「百年孤独」？",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-19",
+        "published_date": "Thu, 19 Feb 2026 20:26:00 GMT",
+        "first_seen": "2026-02-19T23:44:04.542483"
+      },
+      "b60e4d1da6626e0946534f990473817c4897cf1e701482d3b2b7d7fa30c8e491": {
+        "title": "45亿红包打响AI入口大战，百度给出另一种回应",
+        "link": "https://www.qbitai.com/2026/02/381435.html",
+        "published_date": "Thu, 19 Feb 2026 10:15:00 GMT",
+        "first_seen": "2026-02-19T23:44:04.542484"
+      },
+      "40d9555362cbd4660e7dcf0bc7aed353d28a095ff0fcd7e70328d310c972af81": {
+        "title": "从舞台秀到真干活，北京卫视春晚演绎机器人走向日常好用",
+        "link": "https://www.qbitai.com/2026/02/381417.html",
+        "published_date": "Thu, 19 Feb 2026 09:58:00 GMT",
+        "first_seen": "2026-02-19T23:44:04.542486"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-02-19T08:57:18.326808",
-    "Finance": "2026-02-19T08:57:18.374183",
-    "Ai": "2026-02-19T08:57:18.495814"
+    "Technology": "2026-02-19T23:44:04.598606",
+    "Finance": "2026-02-19T23:44:04.372261",
+    "Ai": "2026-02-19T23:44:04.542487"
   }
 }
