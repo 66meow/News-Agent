@@ -1,7 +1,26 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-20 06:01
+**最后更新时间**: 2026-02-20 08:53
+
+---
+
+## 🆕 最新更新 (2026-02-20 08:53)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [AI 是否已经杀死了敏捷宣言](https://www.infoq.cn/article/7ckNsVMQKBSZRjGOdEti?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-20 16:44
+
+#### [Agoda API Agent：零代码、零部署，将任意 API 转换为 MCP](https://www.infoq.cn/article/lTdPVphiffHFz6prrxu3?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-20 16:41
+
+#### [Java近期资讯：JDK 26候选发布版、Spring Framework、Open Liberty、EclipseStore、Gradle](https://www.infoq.cn/article/laeU5SxqYSUrm0KdpaOj?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-20 16:38
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [推荐 5 个 yyds 的语音 AI 神器，强推第一个。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247531518&idx=1&sn=8cd2f2b60570b53f31e3dc5c4af64c7c)
+**发布时间**: 2026-02-20 15:04
 
 ---
 
