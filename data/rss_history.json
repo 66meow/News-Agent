@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "b3262b75108e729df6367e2bada45281e4993b381251e2c716fdb896bcc6f336": {
-        "title": "OpenAI 去中东，寻求500亿美元融资",
-        "link": "https://www.tmtpost.com/7851863.html",
-        "published_date": "Thu, 22 Jan 2026 13:44:00 GMT",
-        "first_seen": "2026-01-22T08:35:39.826796"
-      },
-      "682bfd9830a40a75e0426b8a50765c59507c88125fe2cc6a5dc41550ce03c3b0": {
-        "title": "AI撞到“数据天花板”，一场革命正悄悄上演",
-        "link": "https://www.infoq.cn/article/vAZrlAQMJ6rvaq6oWypv?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 22 Jan 2026 14:47:00 GMT",
-        "first_seen": "2026-01-22T08:35:39.826803"
-      },
-      "a13bcfa2f1569b0b4a9d90f17e3d18c076e18d0ecb8162c2885bccab1dfce32a": {
-        "title": "黄仁勋：AI不会抢饭碗，反而会导致劳动力短缺",
-        "link": "https://www.tmtpost.com/7851503.html",
-        "published_date": "Thu, 22 Jan 2026 11:44:00 GMT",
-        "first_seen": "2026-01-22T08:35:39.826805"
-      },
-      "100882ba4ae7d906dd8d9c0e9ee1bf044e550da933e4d7c9ee2d0db916463216": {
-        "title": "智驾的“圈地运动”谁能终结？",
-        "link": "https://www.tmtpost.com/7851955.html",
-        "published_date": "Thu, 22 Jan 2026 16:26:00 GMT",
-        "first_seen": "2026-01-22T08:35:39.826807"
-      },
-      "2facdd390568469c5702257ab141bec991d49a84dec940363000a65c78d2541e": {
-        "title": "清华开源！这个 GitHub 项目重新定义端侧 Agent 智能体 。",
-        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247530710&idx=1&sn=1ef6a9abecb2077c5c34d0201b2e676c",
-        "published_date": "Thu, 22 Jan 2026 15:25:00 GMT",
-        "first_seen": "2026-01-22T08:35:39.826808"
-      },
       "33fb39525a6ddf33aac0a875d8835fb388c24b597e1181a3bb89b412c97115b5": {
         "title": "每周工作100小时！谷歌DeepMind CEO揭秘：中国对手是字节跳动，断言谷歌是AI领域唯一全栈巨头",
         "link": "https://www.infoq.cn/article/0TByYFFwWJi9u0xLobuU?utm_source=rss&utm_medium=article",
@@ -2881,27 +2851,75 @@
         "link": "https://www.infoq.cn/article/YSdbKmoPyzFgxvPA3TZl?utm_source=rss&utm_medium=article",
         "published_date": "Sat, 21 Feb 2026 08:00:00 GMT",
         "first_seen": "2026-02-21T05:50:50.301334"
+      },
+      "68a774eb958fe4edae135f91f618dd64273ab2b0b8dcb00fd08dbb152c31509b": {
+        "title": "2026年投资人都在抢的 “真公司”：看懂这 10 个方向，让资本追着你投",
+        "link": "https://www.tmtpost.com/7886329.html",
+        "published_date": "Sat, 21 Feb 2026 16:14:00 GMT",
+        "first_seen": "2026-02-21T08:42:13.472872"
+      },
+      "331544a8eaab898126dfc3bda57622794b1a521887f5e46f9264d141248e5b9f": {
+        "title": "被忽视的养老真相：养老院里 70% 是女性，却在用 “男性标准” 被照顾",
+        "link": "https://www.tmtpost.com/7886213.html",
+        "published_date": "Sat, 21 Feb 2026 16:07:00 GMT",
+        "first_seen": "2026-02-21T08:42:13.472881"
+      },
+      "d88f20cd1813a09f0690ce88c1ec2c21adff130b6ebb02d464e3ebf984a78d47": {
+        "title": "“五大六小”们统一从新能源领域大幅撤退？国家电投卖资产、华电提红线的背后",
+        "link": "https://www.tmtpost.com/7886298.html",
+        "published_date": "Sat, 21 Feb 2026 16:07:00 GMT",
+        "first_seen": "2026-02-21T08:42:13.472883"
+      },
+      "1d4c5e2acd835ae735b56ed9de09f7ec359172afa6a2210414ae991783e2d907": {
+        "title": "新加坡：中美AI中转站",
+        "link": "https://www.tmtpost.com/7886289.html",
+        "published_date": "Sat, 21 Feb 2026 16:07:00 GMT",
+        "first_seen": "2026-02-21T08:42:13.472885"
+      },
+      "476a85a63bff63cfdc1b132da9fda07edc523f537841d701259ec44d775c9a54": {
+        "title": "烧了540亿，机器人进入“吃鸡游戏”拐点",
+        "link": "https://www.tmtpost.com/7886222.html",
+        "published_date": "Sat, 21 Feb 2026 16:07:00 GMT",
+        "first_seen": "2026-02-21T08:42:13.472887"
+      },
+      "4bcecabe0b293ca4523cdedbf2cb1e68bc3c0d653ca83c770fd83d99c283b7b1": {
+        "title": "王震：陶瓷基复合材料研究进展与发展趋势 | 钛资本航空航天组",
+        "link": "https://www.tmtpost.com/7886221.html",
+        "published_date": "Sat, 21 Feb 2026 16:06:00 GMT",
+        "first_seen": "2026-02-21T08:42:13.472888"
+      },
+      "9e7558d23446d73d5cf46a474e35ff3d53b26869ff10269be87cdfb532971124": {
+        "title": "特斯拉Cybercab已取消方向盘，中国为何还紧握不放？",
+        "link": "https://www.tmtpost.com/7886203.html",
+        "published_date": "Sat, 21 Feb 2026 16:06:00 GMT",
+        "first_seen": "2026-02-21T08:42:13.472890"
+      },
+      "fe1fa881b7315ec9fac130ae55a6b67604707f5c672d14a134e946fd7f4da249": {
+        "title": "这部春节档好片还是被低估了",
+        "link": "https://www.tmtpost.com/7886220.html",
+        "published_date": "Sat, 21 Feb 2026 16:06:00 GMT",
+        "first_seen": "2026-02-21T08:42:13.472891"
+      },
+      "5e867c5117564cea5cac2ebbbd7565aeecab21e3b83c9cb943d902fa01437f70": {
+        "title": "前腾讯游戏策划，在OpenClaw社区点亮AI进化树",
+        "link": "https://www.tmtpost.com/7886236.html",
+        "published_date": "Sat, 21 Feb 2026 16:06:00 GMT",
+        "first_seen": "2026-02-21T08:42:13.472893"
+      },
+      "f2e9483ff416d6fff1613c063e3afe328a75babb194b120fad39e1adbb5ea053": {
+        "title": "告别软件依赖：OpenAI 200人团队押注硬件，打响AI消费终端争夺战",
+        "link": "https://www.tmtpost.com/7885845.html",
+        "published_date": "Sat, 21 Feb 2026 13:58:00 GMT",
+        "first_seen": "2026-02-21T08:42:13.472894"
+      },
+      "0a4ef1d47ded1a7d26c1b1d5e678584f1ab8b1b507416f289dc8402367d2370e": {
+        "title": "挖到 4 个很哇塞的 AI 开源项目，快来瞧瞧。",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247531541&idx=1&sn=b3cea171daa3ae35bd34a021e175088a",
+        "published_date": "Sat, 21 Feb 2026 15:04:00 GMT",
+        "first_seen": "2026-02-21T08:42:13.472896"
       }
     },
     "Finance": {
-      "b6a19fe0ddb6e6d82dbaf87fa6fda7dccdefa3b8acb11761870f0fd32205c072": {
-        "title": "UK government borrowing lower than expected in December",
-        "link": "https://www.ft.com/content/d92234e4-df09-448b-815a-b28817136339",
-        "published_date": "Thu, 22 Jan 2026 08:20:00 GMT",
-        "first_seen": "2026-01-22T08:35:17.231257"
-      },
-      "9ca0939f664618264870db4aa04c17d8fd25ccb1e0987cfa4afa6eadf0ad6404": {
-        "title": "EQT to buy UK’s Coller Capital for up to $3.7bn",
-        "link": "https://www.ft.com/content/45fca5a4-4422-4c24-8f26-afc3392afcbe",
-        "published_date": "Thu, 22 Jan 2026 06:41:00 GMT",
-        "first_seen": "2026-01-22T08:35:17.231266"
-      },
-      "a31e70da05574e7ff1b31bae47402691da56b76316ad556f73507c60f3d6bc57": {
-        "title": "Davos latest: Markets rally after Trump touts Greenland deal",
-        "link": "https://www.ft.com/content/3c5e84b4-4e9f-4bed-a0c8-2d41de52497d",
-        "published_date": "Thu, 22 Jan 2026 06:08:00 GMT",
-        "first_seen": "2026-01-22T08:35:17.231269"
-      },
       "b6c45596a72871f2d700b3b63939ef6f7038914c19d39b0c0210498398195a91": {
         "title": "Elon Musk’s SpaceX lines up 4 banks for blockbuster IPO",
         "link": "https://www.ft.com/content/55235da5-9a3f-4e0f-b00c-4e1f5abdc606",
@@ -5202,36 +5220,6 @@
       }
     },
     "Ai": {
-      "9504d8c57b6dd6055a00c2558ea43a2e504307e51f39b47fb6035e12eed81a7b": {
-        "title": "WAIC CONNECT | 沪港联动激活产业新引擎，两地各界共筑AI+多元应用新生态",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-22-6",
-        "published_date": "Thu, 22 Jan 2026 16:25:00 GMT",
-        "first_seen": "2026-01-22T08:35:17.351077"
-      },
-      "0781ba3f827bd2f29952b457c6d56d6aa07f5cb4387d3ecd1196a51563854e4b": {
-        "title": "剑桥与北航等设计可穿戴设备+LLM，融合肌肉振动、脉搏与大模型推理的无声语音系统",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-22-5",
-        "published_date": "Thu, 22 Jan 2026 14:09:00 GMT",
-        "first_seen": "2026-01-22T08:35:17.351085"
-      },
-      "bbf7224638a100fe2cc609536c40a3dcc857686b6d88fd4d4790cd85650fd235": {
-        "title": "Node.js之父：手写代码已死",
-        "link": "https://www.qbitai.com/2026/01/371389.html",
-        "published_date": "Thu, 22 Jan 2026 06:43:00 GMT",
-        "first_seen": "2026-01-22T08:35:17.351087"
-      },
-      "8e3f8f2b08518160a8887492ef113cc2fca2d26fdd529406f61958b569cfdbbd": {
-        "title": "57.1%的人分不清真假！Runway新视频模型太爆炸",
-        "link": "https://www.qbitai.com/2026/01/371481.html",
-        "published_date": "Thu, 22 Jan 2026 06:40:00 GMT",
-        "first_seen": "2026-01-22T08:35:17.351089"
-      },
-      "c45244c903b8f1666c8bd729a70c654a573ad31921e41ce21da2037644667590": {
-        "title": "2026-01-22日刊",
-        "link": "https://ai.hubtoday.app//2026-01/2026-01-22/",
-        "published_date": "Thu, 22 Jan 2026 07:19:00 GMT",
-        "first_seen": "2026-01-22T08:35:17.351090"
-      },
       "325d9ad5b9a779527013fbe74fcba67b74b5b81bdf64881bad4375cd9df2f282": {
         "title": "清华姚班校友刘壮团队再发力，无需归一化的Transformer性能进化",
         "link": "https://www.jiqizhixin.com/articles/2026-01-22-13",
@@ -7301,13 +7289,19 @@
         "link": "https://www.qbitai.com/2026/02/381542.html",
         "published_date": "Fri, 20 Feb 2026 09:49:00 GMT",
         "first_seen": "2026-02-20T23:37:04.812993"
+      },
+      "98c797214152cf716593cb9b6e17ef262269c3597fcfd9362c19d380e2b6e773": {
+        "title": "24人团队硬刚英伟达！AMD前高管梦之队出手，新芯片每秒17000个token",
+        "link": "https://www.qbitai.com/2026/02/381552.html",
+        "published_date": "Sat, 21 Feb 2026 06:31:00 GMT",
+        "first_seen": "2026-02-21T08:42:13.390223"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-02-21T05:50:50.301336",
+    "Technology": "2026-02-21T08:42:13.472898",
     "Finance": "2026-02-21T05:50:50.075372",
-    "Ai": "2026-02-20T23:37:04.812995"
+    "Ai": "2026-02-21T08:42:13.390232"
   }
 }
