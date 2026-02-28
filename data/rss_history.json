@@ -4273,6 +4273,180 @@
         "link": "http://www.huxiu.com/article/4837479.html?f=wangzhan",
         "published_date": "Fri, 27 Feb 2026 17:10:00 GMT",
         "first_seen": "2026-02-27T23:33:17.426790"
+      },
+      "467b113eb4af2e6e86422427fcaf77e28fc578d4c6a56871d554726684b2bffd": {
+        "title": "Spring近期资讯：Boot、Security、Integration、Modulith、AMQP的第二个里程碑版本发布",
+        "link": "https://www.infoq.cn/article/lprDgM0RJYaPUuvvGrq2?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 28 Feb 2026 13:00:00 GMT",
+        "first_seen": "2026-02-28T05:39:46.512344"
+      },
+      "b298fe9bc6f46b06f3f771938a17b6bfe908bc513e5b7829fc790ad4022e0e97": {
+        "title": "从告警到事后分析：谷歌云SRE团队如何运用Gemini CLI应对服务中断",
+        "link": "https://www.infoq.cn/article/Pw8vha4aUtY9C4xY28zf?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 28 Feb 2026 12:00:00 GMT",
+        "first_seen": "2026-02-28T05:39:46.512353"
+      },
+      "6480ab97e2727c5c32e14ec073da04526f80325e746c094a00f9bfbc62fbef14": {
+        "title": "凭借全新数据原生开发工具，在 Snowflake 中更快地将创意投入生产 ｜ 技术趋势",
+        "link": "https://www.infoq.cn/article/wyhHHtfbuk5U7JtVukBT?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 28 Feb 2026 11:59:00 GMT",
+        "first_seen": "2026-02-28T05:39:46.512355"
+      },
+      "82f5642ec263540e96de2f818b997ea9c376cc3b1e9044a4b4fff509b04f1081": {
+        "title": "史诗级输血！亚马逊、英伟达、软银联手投出1100亿美元，OpenAI估值冲上7300亿美元",
+        "link": "https://www.infoq.cn/article/TJY7NSykSiW5DwwAEb44?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 28 Feb 2026 11:26:00 GMT",
+        "first_seen": "2026-02-28T05:39:46.512357"
+      },
+      "eeef8ad24abae882538d442436110f94b356fe5cb667ba18793113ac2d3d00de": {
+        "title": "Snowflake 将 AI 就绪的企业数据置于您的指尖 ｜技术趋势",
+        "link": "https://www.infoq.cn/article/MNGAbcgdBwPF6JoXbA9j?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 28 Feb 2026 11:23:00 GMT",
+        "first_seen": "2026-02-28T05:39:46.512359"
+      },
+      "bde0f9e12d30450de0e3fb020aa444de5d131e76d1c5bcd6699cdd606b631028": {
+        "title": "AI 在生命科学领域 2026 年发展展望 ｜技术趋势",
+        "link": "https://www.infoq.cn/article/5Qb1JoQVqadUe9bviKm0?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 28 Feb 2026 11:02:00 GMT",
+        "first_seen": "2026-02-28T05:39:46.512360"
+      },
+      "dfad5146de92894faf95907c4a2aa7b7e5fc3ace44a7997510030b4b93101f91": {
+        "title": "通过“Session 0”利用多样性打造高影响力团队",
+        "link": "https://www.infoq.cn/article/M3ZMFMwR9kvA31kz5tXr?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 28 Feb 2026 10:00:00 GMT",
+        "first_seen": "2026-02-28T05:39:46.512362"
+      },
+      "0836d6948123fadd3309b600e5fc5e5bc3237eebd7bfd2c484ad25d15324b60b": {
+        "title": "苹果推出 Ferret-UI Lite：一款用于查看和控制 UI 的端侧 AI 模型",
+        "link": "https://www.infoq.cn/article/qPdlP3JlryK6gcPmLhw5?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 28 Feb 2026 08:00:00 GMT",
+        "first_seen": "2026-02-28T05:39:46.512363"
+      },
+      "0a95375833029c736411d5ea4014954855d55744a3f41acec6c19b22118b7a4a": {
+        "title": "20年一遇的创富窗口？擎天租机器人租赁，是风口，还是精准的收割？",
+        "link": "https://www.tmtpost.com/7893582.html",
+        "published_date": "Sat, 28 Feb 2026 12:09:00 GMT",
+        "first_seen": "2026-02-28T05:39:46.512365"
+      },
+      "e64b0be097e37aef591dc1dff8436a673097b00dfa911cc4e4774f6cb09ea6ca": {
+        "title": "合众合姚哲：未来五年要做“百店小王子”，不盲目追求千店万店",
+        "link": "https://www.tmtpost.com/7893562.html",
+        "published_date": "Sat, 28 Feb 2026 12:03:00 GMT",
+        "first_seen": "2026-02-28T05:39:46.512366"
+      },
+      "6444b22b8845daabbd1cdfc0d5bbfa2eebf3c601b58a6413cd0bd893bcc0aeb4": {
+        "title": "一剂猛药，姜云涛能否盘活长春高新？",
+        "link": "https://www.tmtpost.com/7893550.html",
+        "published_date": "Sat, 28 Feb 2026 12:00:00 GMT",
+        "first_seen": "2026-02-28T05:39:46.512368"
+      },
+      "68154a2ea712c8666fffe886c955fe265351dfca8f36c748809011e4788a1f0e": {
+        "title": "围攻侏儒症“药王”",
+        "link": "https://www.tmtpost.com/7893534.html",
+        "published_date": "Sat, 28 Feb 2026 11:52:00 GMT",
+        "first_seen": "2026-02-28T05:39:46.512370"
+      },
+      "27aa353cb8aed1d0fb484f78355f391ca60f72ec36ab2d932c012ce9306a6fd4": {
+        "title": "Workday创始人回归能否挽救AI转型困境？股价暴跌10%引市场质疑",
+        "link": "https://www.tmtpost.com/7891376.html",
+        "published_date": "Sat, 28 Feb 2026 11:50:00 GMT",
+        "first_seen": "2026-02-28T05:39:46.512371"
+      },
+      "a4b873f35283f68f3c853ca358cebb70e98a07001201e4b10721f0f938892f02": {
+        "title": "砸下600亿买“备胎”：Meta 集齐三大芯片，英伟达的“铁王座”裂开了",
+        "link": "https://www.tmtpost.com/7892820.html",
+        "published_date": "Sat, 28 Feb 2026 11:49:00 GMT",
+        "first_seen": "2026-02-28T05:39:46.512373"
+      },
+      "f4a9a4682453b3e41ef2c8257d3d09d63ad81bcd4107259a2494c1329513321f": {
+        "title": "中年人的精神救赎，抵押房产，赌上全部积蓄做游戏",
+        "link": "https://www.tmtpost.com/7893530.html",
+        "published_date": "Sat, 28 Feb 2026 11:43:00 GMT",
+        "first_seen": "2026-02-28T05:39:46.512374"
+      },
+      "39d6c0c6a941ba5d7d5dd4e3afd6b4f58e601b5e6ccc783db6d1572a8c2f5508": {
+        "title": "英伟达赚疯了却换不来股价上涨，黄仁勋押注的AI“金矿”到底在哪里？",
+        "link": "https://www.tmtpost.com/7893527.html",
+        "published_date": "Sat, 28 Feb 2026 11:33:00 GMT",
+        "first_seen": "2026-02-28T05:39:46.512375"
+      },
+      "93da8660d33d4e0f665a8f4c55d31a7484afaad855ffaf3aa64c9b79d098d2b0": {
+        "title": "一年关店2000家，民营酒店集团不再“走量”",
+        "link": "https://www.tmtpost.com/7893516.html",
+        "published_date": "Sat, 28 Feb 2026 11:25:00 GMT",
+        "first_seen": "2026-02-28T05:39:46.512377"
+      },
+      "ff532262b417b7dd324d03ffed01c6494fc8a547df0fde005dcb79617b6efb10": {
+        "title": "瑞幸2025年配送费超68亿，外卖大战之下的盈利博弈",
+        "link": "https://www.tmtpost.com/7893725.html",
+        "published_date": "Sat, 28 Feb 2026 11:22:00 GMT",
+        "first_seen": "2026-02-28T05:39:46.512378"
+      },
+      "1c2198170c4b589c1943e489209795487419299ed5f9134887da2a1e878b37d1": {
+        "title": "AI的下一步：智能体",
+        "link": "https://www.tmtpost.com/7893450.html",
+        "published_date": "Sat, 28 Feb 2026 11:18:00 GMT",
+        "first_seen": "2026-02-28T05:39:46.512379"
+      },
+      "9c5d0cdd29d234673180a39d0c4db1ce3e8bcdf6c605606ffb7d51cfac0d4039": {
+        "title": "保险业开始把AI风险写进条款",
+        "link": "https://www.tmtpost.com/7886482.html",
+        "published_date": "Sat, 28 Feb 2026 11:12:00 GMT",
+        "first_seen": "2026-02-28T05:39:46.512380"
+      },
+      "6d612889cf8b3351795671c4ce90bb260b763266680f03969b3476a2b11a2b10": {
+        "title": "松下委身创维，日本彩电再无“独立路线 ”",
+        "link": "https://www.tmtpost.com/7893151.html",
+        "published_date": "Sat, 28 Feb 2026 11:07:00 GMT",
+        "first_seen": "2026-02-28T05:39:46.512382"
+      },
+      "1a83cdf0221d86481ab3435f97bf6a84dbe033227706689c28b63f0722a8349b": {
+        "title": "2026年将新开1000家门店，麦当劳中国市场加速冲刺万店",
+        "link": "https://www.tmtpost.com/7893693.html",
+        "published_date": "Sat, 28 Feb 2026 11:06:00 GMT",
+        "first_seen": "2026-02-28T05:39:46.512383"
+      },
+      "7788cb112fc7f8545b11a163ac55f5ece74f8c91518bff5b72b24c3136762aa3": {
+        "title": "20天赚一年的钱，月之暗面开窍了？",
+        "link": "https://www.tmtpost.com/7893394.html",
+        "published_date": "Sat, 28 Feb 2026 11:01:00 GMT",
+        "first_seen": "2026-02-28T05:39:46.512384"
+      },
+      "a696c08e6855d9081cc67dc83bc49338917bdfbb419c9e5f676dbf0f78198b90": {
+        "title": "史无前例的封杀令：特朗普拉黑 3800 亿 AI 巨头，Anthropic 遭全网“断供”",
+        "link": "https://www.tmtpost.com/7893183.html",
+        "published_date": "Sat, 28 Feb 2026 11:00:00 GMT",
+        "first_seen": "2026-02-28T05:39:46.512386"
+      },
+      "f6287d28eab3724f0909a2d800de161159ba5d153dd93dd7216db03f765b0a04": {
+        "title": "“世界铜王”百亿债务压顶，王文银能否靠锂电底牌翻盘？",
+        "link": "https://www.tmtpost.com/7893376.html",
+        "published_date": "Sat, 28 Feb 2026 10:59:00 GMT",
+        "first_seen": "2026-02-28T05:39:46.512387"
+      },
+      "b512d682d1ae719e69a12846af6d8fc772c5503723d26081ab136088cc111fd3": {
+        "title": "大佬的2025：王兴兴拒绝捧杀",
+        "link": "https://www.tmtpost.com/7893416.html",
+        "published_date": "Sat, 28 Feb 2026 10:56:00 GMT",
+        "first_seen": "2026-02-28T05:39:46.512388"
+      },
+      "735242aed7b80b48680dbbdf56379ad6feb2b9804928a8233cb411770a1bc75f": {
+        "title": "亏损超10亿，千亿创新药龙头百利天恒，“闯关”之路还在继续",
+        "link": "https://www.tmtpost.com/7893415.html",
+        "published_date": "Sat, 28 Feb 2026 10:56:00 GMT",
+        "first_seen": "2026-02-28T05:39:46.512389"
+      },
+      "c0094b13bade6bf9b47e8185c7da77dc118eca6cf77abe7d9d5cda3bfa99ec38": {
+        "title": "特斯拉干掉方向盘，中美自动驾驶终极对决",
+        "link": "https://www.tmtpost.com/7893385.html",
+        "published_date": "Sat, 28 Feb 2026 10:52:00 GMT",
+        "first_seen": "2026-02-28T05:39:46.512391"
+      },
+      "3d5d83c04daa290f36f225792c974903247515ce280d5caae4d1055a7070cb90": {
+        "title": "去年还说去火星，今年要在月球建城市，马斯克是变脸还是有新计划？",
+        "link": "http://www.huxiu.com/article/4837349.html?f=wangzhan",
+        "published_date": "Sat, 28 Feb 2026 11:15:00 GMT",
+        "first_seen": "2026-02-28T05:39:46.512392"
       }
     },
     "Finance": {
@@ -7389,6 +7563,24 @@
         "link": "https://www.ft.com/content/33364b58-5123-4c96-b2df-4a4be85d4d0f",
         "published_date": "Fri, 27 Feb 2026 14:05:00 GMT",
         "first_seen": "2026-02-27T23:33:17.521279"
+      },
+      "092b97f7a842b3b1e7957dfb1d1ef4ead9b4febd8023bbbb109605ee4048d32a": {
+        "title": "Anthropic to sue Trump administration after AI lab is labelled security risk",
+        "link": "https://www.ft.com/content/1aeff07f-6221-4577-b19c-887bb654c585",
+        "published_date": "Sat, 28 Feb 2026 03:12:00 GMT",
+        "first_seen": "2026-02-28T05:39:46.550590"
+      },
+      "c5b711b103fd180313dd1069447b84938982fe9532f29cbc4866618cacd85bf4": {
+        "title": "US court blocks landmark law limiting social media use for children",
+        "link": "https://www.ft.com/content/d8267b9e-109b-4e00-9e82-159a9f5b7cdd",
+        "published_date": "Sat, 28 Feb 2026 00:15:00 GMT",
+        "first_seen": "2026-02-28T05:39:46.550595"
+      },
+      "a48684d1dd50a70b262abf9ac668ac3f409ad62cc9f13085adbd90bb3d9a03b5": {
+        "title": "My brother is paranoid, alone and has forgotten that he sold his house. How can we help?",
+        "link": "https://www.marketwatch.com/story/my-sister-and-i-are-his-only-family-my-brother-is-paranoid-and-forgot-he-sold-his-house-what-can-i-do-006a8d3a?mod=mw_rss_topstories",
+        "published_date": "Sat, 28 Feb 2026 00:00:00 GMT",
+        "first_seen": "2026-02-28T05:39:46.550597"
       }
     },
     "Ai": {
@@ -9431,13 +9623,25 @@
         "link": "https://www.qbitai.com/2026/02/382914.html",
         "published_date": "Fri, 27 Feb 2026 09:17:00 GMT",
         "first_seen": "2026-02-27T23:33:17.665275"
+      },
+      "b6f3db0f58a6a61922f00b945f34aaa552c9945b950d13f5ce1fa7d8f0bd2b8b": {
+        "title": "2026-02-28日刊",
+        "link": "https://ai.hubtoday.app//2026-02/2026-02-28/",
+        "published_date": "Sat, 28 Feb 2026 10:41:00 GMT",
+        "first_seen": "2026-02-28T05:39:46.695472"
+      },
+      "df74f2d37b1547a7f70c4cd53a36b4b93bbdbd75b64a2878ded018c01619eb25": {
+        "title": "OpenAI最新融资1100亿美元！英伟达亚马逊软银都抢到船票了",
+        "link": "https://www.qbitai.com/2026/02/382934.html",
+        "published_date": "Sat, 28 Feb 2026 03:50:00 GMT",
+        "first_seen": "2026-02-28T05:39:46.695479"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-02-27T23:33:17.426792",
-    "Finance": "2026-02-27T23:33:17.521281",
-    "Ai": "2026-02-27T23:33:17.665282"
+    "Technology": "2026-02-28T05:39:46.512394",
+    "Finance": "2026-02-28T05:39:46.550600",
+    "Ai": "2026-02-28T05:39:46.695488"
   }
 }
