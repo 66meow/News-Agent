@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "c893927eab1baa0c47aef43b336aa96a81a55ad844319e55ed023e67fa0e8315": {
-        "title": "阿里隐藏7年的芯片王牌，终于浮出水面",
-        "link": "https://www.tmtpost.com/7861132.html",
-        "published_date": "Fri, 30 Jan 2026 11:05:00 GMT",
-        "first_seen": "2026-01-30T05:55:29.608724"
-      },
-      "fa02dd71653edd1530aa040112c8fffa7649551ec919d04cef238684a629f425": {
-        "title": "商汤开源Agentic VLM模型，让AI能自主“动脑动手”",
-        "link": "https://www.tmtpost.com/7861302.html",
-        "published_date": "Fri, 30 Jan 2026 12:28:00 GMT",
-        "first_seen": "2026-01-30T05:55:29.608730"
-      },
-      "ed91e02cef785039e9941a9cf9373b5182405b641fa57509fcfd96a7b152e475": {
-        "title": "如何破解大模型生产级部署「最后一公里难题」？",
-        "link": "https://www.infoq.cn/video/CDqEUTowOKzrfddKqqbK?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 30 Jan 2026 12:00:00 GMT",
-        "first_seen": "2026-01-30T05:55:29.608733"
-      },
-      "69edce019e5ad88355b3d03aa7e41c35f7b705a8c558428cef564301ac5ccf21": {
-        "title": "2026中国商业航天：要么领跑，要么出局",
-        "link": "https://www.tmtpost.com/7861190.html",
-        "published_date": "Fri, 30 Jan 2026 11:26:00 GMT",
-        "first_seen": "2026-01-30T05:55:29.608735"
-      },
-      "696c580bef5b5d4144bbd1f12f45f408ccd54f5fc56fba0107571dae2f6ad061": {
-        "title": "谷歌通用商务协议（UCP）赋能智能代理购物",
-        "link": "https://www.infoq.cn/article/48dPcqMKE6lcxtp9OLH6?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 30 Jan 2026 10:58:00 GMT",
-        "first_seen": "2026-01-30T05:55:29.608737"
-      },
       "805fb25ef9861fb9828db6813b98b6f4a92ffbe9c0755d752cef305cf136bfd7": {
         "title": "苹果 Siri 压力大了？Google 甩出 FunctionGemma 杀手锏，手机本地也能流畅调 API",
         "link": "https://www.infoq.cn/article/QRiKGWvWxwUh7wAwODjK?utm_source=rss&utm_medium=article",
@@ -4591,39 +4561,123 @@
         "link": "http://www.huxiu.com/article/4837730.html?f=wangzhan",
         "published_date": "Sat, 28 Feb 2026 14:33:00 GMT",
         "first_seen": "2026-02-28T23:31:08.097253"
+      },
+      "b38a4a4e1b948d323420a7f56571c9440c8b14aca50fc286a5cb7fdbfce81524": {
+        "title": "从“轻奢”到“日用”，安吉尔、易开得们的下一场战争？",
+        "link": "https://www.tmtpost.com/7894865.html",
+        "published_date": "Sun, 01 Mar 2026 13:12:00 GMT",
+        "first_seen": "2026-03-01T05:58:22.858318"
+      },
+      "f1865725be4d5692853ba8f04a01545ef435e2fdac25358657df6f12bddb1c0a": {
+        "title": "白酒行业的“增长神话”终结，春节也拯救不了",
+        "link": "https://www.tmtpost.com/7894910.html",
+        "published_date": "Sun, 01 Mar 2026 13:12:00 GMT",
+        "first_seen": "2026-03-01T05:58:22.858330"
+      },
+      "aab2cbe9acfd8abcbea02f41c31d1d72b1240f09e2f0cb206b53694325228dc6": {
+        "title": "在沙漠中建退休社区：一个沦为普通小镇，一个成全球标杆",
+        "link": "https://www.tmtpost.com/7894877.html",
+        "published_date": "Sun, 01 Mar 2026 13:12:00 GMT",
+        "first_seen": "2026-03-01T05:58:22.858332"
+      },
+      "0d0f8391d110fe31ed01ff15f0ae3c44f650f9bc0dcae1c07f00542acec549cb": {
+        "title": "特朗普封杀Anthropic，OpenAI先声援后“背刺”，这中间究竟发生了什么？",
+        "link": "https://www.tmtpost.com/7894874.html",
+        "published_date": "Sun, 01 Mar 2026 12:58:00 GMT",
+        "first_seen": "2026-03-01T05:58:22.858334"
+      },
+      "3594cf5fd1fd172b5c4f2fea57ccdd63557e5d94ae3f7ab29b2d6c7e941fa759": {
+        "title": "如果阿里千问买下“休克”的魅族手机",
+        "link": "https://www.tmtpost.com/7894867.html",
+        "published_date": "Sun, 01 Mar 2026 12:57:00 GMT",
+        "first_seen": "2026-03-01T05:58:22.858336"
+      },
+      "659a99fa5c7f4afeef114b7bf9c4a99cd3f328754fd953a5727d3ddfad5eeedb": {
+        "title": "虽然打不了螺丝，但人形机器人们依然想“上岸”",
+        "link": "https://www.tmtpost.com/7894859.html",
+        "published_date": "Sun, 01 Mar 2026 12:57:00 GMT",
+        "first_seen": "2026-03-01T05:58:22.858338"
+      },
+      "308b7a5fd8b13ddec7f8ebdd977b90dff036cf5c4e9b3c99030512029da088e7": {
+        "title": "【数智周报】OpenAI宣布获得1100亿美元新投资；Anthropic指控三家中国模型“非法蒸馏” 马斯克：贼喊捉贼；国产芯片公司集体涨价",
+        "link": "https://www.tmtpost.com/7894506.html",
+        "published_date": "Sun, 01 Mar 2026 10:57:00 GMT",
+        "first_seen": "2026-03-01T05:58:22.858340"
+      },
+      "2e0c37f3604d0a7ae10730b34d4ffe56091ab2b1e6f29c2c228d88157b81ff7d": {
+        "title": "美欧重塑加密资产监管：从执法到牌照",
+        "link": "https://www.tmtpost.com/7894580.html",
+        "published_date": "Sun, 01 Mar 2026 09:26:00 GMT",
+        "first_seen": "2026-03-01T05:58:22.858341"
+      },
+      "6147784dfed1e2703c5bc7aa63e51bc1f837e54d908d9104d1fea75ce72b6b3a": {
+        "title": "90亿真金+36项实策，海淀向全球发科创礼包",
+        "link": "https://www.tmtpost.com/7894541.html",
+        "published_date": "Sun, 01 Mar 2026 09:25:00 GMT",
+        "first_seen": "2026-03-01T05:58:22.858343"
+      },
+      "c485d473bac410265d7d8bda2bbff97edf7f0704832abb604a2d2178473a2b9e": {
+        "title": "换帅只是开始，一汽奥迪真正硬仗还在后头",
+        "link": "https://www.tmtpost.com/7894531.html",
+        "published_date": "Sun, 01 Mar 2026 09:25:00 GMT",
+        "first_seen": "2026-03-01T05:58:22.858344"
+      },
+      "eaadc5513adbef80d0eef03fb1309a158ee0f20d556c3f831ebc13e01468f860": {
+        "title": "利润跌去超七成，爱奇艺靠什么赢未来？",
+        "link": "https://www.tmtpost.com/7894428.html",
+        "published_date": "Sun, 01 Mar 2026 09:25:00 GMT",
+        "first_seen": "2026-03-01T05:58:22.858346"
+      },
+      "182810dd4959db8c03f0eff7214df49c2b6149db7952a18d0858db40814e4aff": {
+        "title": "伊朗可能关闭霍尔木兹海峡，为什么航运股将从中受益",
+        "link": "https://www.tmtpost.com/7894830.html",
+        "published_date": "Sun, 01 Mar 2026 09:23:00 GMT",
+        "first_seen": "2026-03-01T05:58:22.858347"
+      },
+      "f72fead1a1142c6f784b300f05a3f27bfa612ba7be43f2cc4649183114b29759": {
+        "title": "千军万马上「万岁山」",
+        "link": "https://www.tmtpost.com/7894469.html",
+        "published_date": "Sun, 01 Mar 2026 09:22:00 GMT",
+        "first_seen": "2026-03-01T05:58:22.858348"
+      },
+      "29461adee1d141e75eef9fdff2da5d65964818b72b876d2750239401a6e76612": {
+        "title": "美国对伊朗发动袭击，哪些国防股有望受益，哪些可能受挫",
+        "link": "https://www.tmtpost.com/7894828.html",
+        "published_date": "Sun, 01 Mar 2026 09:22:00 GMT",
+        "first_seen": "2026-03-01T05:58:22.858350"
+      },
+      "dcb9b489e4838b16acf9d3fd62c7c15a85338e022fcddf93b7fa5d28b6ec14a3": {
+        "title": "白宫给新建AI算力中心立红线",
+        "link": "https://www.tmtpost.com/7885113.html",
+        "published_date": "Sun, 01 Mar 2026 09:22:00 GMT",
+        "first_seen": "2026-03-01T05:58:22.858351"
+      },
+      "8061b6ba70396dc5176738b7b69e246f36fea5b8cf9958e424fd6bea3cc4bbf2": {
+        "title": "历史上第一次，AI成为裁员公开理由",
+        "link": "https://www.tmtpost.com/7894454.html",
+        "published_date": "Sun, 01 Mar 2026 09:21:00 GMT",
+        "first_seen": "2026-03-01T05:58:22.858353"
+      },
+      "dac78dd656aa08e42ac4cf014dfc1fa590da3db8166cbfa75aba837adff86b7f": {
+        "title": "开年电商第一仗，京东盯上了超市",
+        "link": "https://www.tmtpost.com/7894446.html",
+        "published_date": "Sun, 01 Mar 2026 09:17:00 GMT",
+        "first_seen": "2026-03-01T05:58:22.858354"
+      },
+      "40292485a9252ff4ab31857a7e4a7ec5e18addb6c4f099e094d3514592c6cbd0": {
+        "title": "拿下口腔行业双料全国第一，毛利近60%，山东“隐形冠军”冲刺港股",
+        "link": "https://www.tmtpost.com/7894321.html",
+        "published_date": "Sun, 01 Mar 2026 09:16:00 GMT",
+        "first_seen": "2026-03-01T05:58:22.858356"
+      },
+      "33148e766b13de116575fff5704c298ee51a776ebbf072bf8589e9c0a4833195": {
+        "title": "春节AI红包大战埋下了四个伏笔",
+        "link": "https://www.tmtpost.com/7894590.html",
+        "published_date": "Sun, 01 Mar 2026 09:01:00 GMT",
+        "first_seen": "2026-03-01T05:58:22.858357"
       }
     },
     "Finance": {
-      "0d9086567c5f567d03b5ce07c9977562d10ff46a2448533d13b53f3c4e6c1b0f": {
-        "title": "Trump says he’ll announce his Fed pick Friday morning. Here’s who’s in the lead, according to prediction markets.",
-        "link": "https://www.marketwatch.com/story/trump-says-hell-announce-his-fed-pick-next-week-heres-whos-in-the-lead-according-to-prediction-markets-ba80c732?mod=mw_rss_topstories",
-        "published_date": "Fri, 30 Jan 2026 02:03:00 GMT",
-        "first_seen": "2026-01-30T05:54:58.751312"
-      },
-      "b47dfe6018ca222876f17bb38f911cd1dce22971365bc395edcd8389a289bdad": {
-        "title": "US shutdown avoided despite stand-off over immigration enforcement",
-        "link": "https://www.ft.com/content/4b9a6a44-a1f4-43c8-8ef2-05acb64fb3a9",
-        "published_date": "Fri, 30 Jan 2026 00:44:00 GMT",
-        "first_seen": "2026-01-30T05:54:58.751322"
-      },
-      "9a4433544153e5c0c117afa26ff4e9be25cffac773052c4e2d901a6fa78760ef": {
-        "title": "Emerging markets make roaring start to 2026 as dollar slides",
-        "link": "https://www.ft.com/content/bba310b2-af62-4460-83ed-63cfcc110f1f",
-        "published_date": "Fri, 30 Jan 2026 05:00:00 GMT",
-        "first_seen": "2026-01-30T05:54:58.751325"
-      },
-      "936d7bb3f91f4c16f067ff27fbb9e70fb318af59da5eddb0bf6bc90aa24ad3bc": {
-        "title": "OpenAI reportedly eyeing an IPO by year’s end, ahead of Anthropic",
-        "link": "https://www.marketwatch.com/story/openai-reportedly-eyeing-an-ipo-by-years-end-ahead-of-anthropic-7feb3766?mod=mw_rss_topstories",
-        "published_date": "Fri, 30 Jan 2026 00:30:00 GMT",
-        "first_seen": "2026-01-30T05:54:58.751327"
-      },
-      "aa0b37969a5df32f239ad7b4ae362032247c9b94c80d0908c3ccc5521b156f54": {
-        "title": "Hedge funds’ correlation with stocks sparks fears over lack of crash protection",
-        "link": "https://www.ft.com/content/8c1d9cfe-1d8f-45d5-9ab1-57fb203a170c",
-        "published_date": "Fri, 30 Jan 2026 05:00:00 GMT",
-        "first_seen": "2026-01-30T05:54:58.751328"
-      },
       "9ea38c461505df761531e8b9f13ab1e1a5fcddff8a1706ce87f3f3fe768a0d8e": {
         "title": "Trump nominates Kevin Warsh as Federal Reserve chair",
         "link": "https://www.ft.com/content/a08f1b78-4816-4ff1-819c-e67e59c8d767",
@@ -7749,39 +7803,39 @@
         "link": "https://www.ft.com/content/baa400cc-359c-4205-b93d-573b5b7c440d",
         "published_date": "Sat, 28 Feb 2026 12:38:00 GMT",
         "first_seen": "2026-02-28T23:31:08.176825"
+      },
+      "dbb137bbf596b3fe4593328349892b000ccf36ceb75fe9ac374962ba80109f03": {
+        "title": "Strike on Iranian primary school kills 148, authorities say",
+        "link": "https://www.ft.com/content/055d7ee1-0002-4d86-931f-18f4687d4f8b",
+        "published_date": "Sun, 01 Mar 2026 05:15:00 GMT",
+        "first_seen": "2026-03-01T05:58:22.896292"
+      },
+      "2f7c2ff4f99faf8f96a0ea933eede6f747033fe44bd3cc0db1d952313b308b6b": {
+        "title": "Trump tries to defy troubled history of US interventions in Middle East",
+        "link": "https://www.ft.com/content/da633899-964a-42d7-a7a9-07c034fac388",
+        "published_date": "Sun, 01 Mar 2026 02:34:00 GMT",
+        "first_seen": "2026-03-01T05:58:22.896300"
+      },
+      "cf9389ca2f477cabbbf956e61a45f3158f3cd44f39c96f59e6b2a5af1eaae011": {
+        "title": "Ayatollah Ali Khamenei, Iran’s supreme leader, 1939-2026",
+        "link": "https://www.ft.com/content/7ce98cd0-269f-4522-b1e4-bfb72aa43c3e",
+        "published_date": "Sun, 01 Mar 2026 01:59:00 GMT",
+        "first_seen": "2026-03-01T05:58:22.896302"
+      },
+      "b6cc5d27eb41614fcc621e5ae77e51c0c10549dd7d9e5b2715db22cd0786d83b": {
+        "title": "Iran’s supreme leader killed in air strikes",
+        "link": "https://www.ft.com/content/e026b4a7-1115-493a-9b31-c8b0b5965491",
+        "published_date": "Sun, 01 Mar 2026 00:52:00 GMT",
+        "first_seen": "2026-03-01T05:58:22.896303"
+      },
+      "3175461b29b718f746479513ad4f3da2c370c3e53caf566c801c9fce2174577c": {
+        "title": "US not planning to tap strategic reserve as Iran war risks oil surge",
+        "link": "https://www.ft.com/content/e85a07da-9a74-4942-ae22-3945773aeb82",
+        "published_date": "Sat, 28 Feb 2026 23:50:00 GMT",
+        "first_seen": "2026-03-01T05:58:22.896305"
       }
     },
     "Ai": {
-      "53c59785e7008fde55b28e8a62724cece23b125475c7172c0dfefc2017620553": {
-        "title": "LLM-in-Sandbox：给大模型一台电脑，激发通用智能体能力",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-30-3",
-        "published_date": "Fri, 30 Jan 2026 13:00:00 GMT",
-        "first_seen": "2026-01-30T05:55:11.918438"
-      },
-      "f9897890d10b0a5974a2c8a2e97e3082ebf5067240b70326a48e04d3b632bb61": {
-        "title": "商汤开源SenseNova-MARS，突破多模态搜索推理天花板",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-30",
-        "published_date": "Fri, 30 Jan 2026 10:44:00 GMT",
-        "first_seen": "2026-01-30T05:55:11.918444"
-      },
-      "7814a4c394250b4081765b0c1d37330934820e9529236bb91201cff2ac614524": {
-        "title": "千问语音识别模型Qwen3-ASR开源！饶舌RAP歌曲也能轻松识别",
-        "link": "https://www.qbitai.com/2026/01/374421.html",
-        "published_date": "Fri, 30 Jan 2026 02:48:00 GMT",
-        "first_seen": "2026-01-30T05:55:11.918446"
-      },
-      "2472e42a023f51175a8cfa905518e35e23b285dde994a934a15cf8f1a914fb04": {
-        "title": "硅谷2026开年重磅：全球顶尖科学家与产业领袖巅峰对话，预演AI+科学未来十年",
-        "link": "https://www.qbitai.com/2026/01/374431.html",
-        "published_date": "Fri, 30 Jan 2026 05:15:00 GMT",
-        "first_seen": "2026-01-30T05:55:11.918448"
-      },
-      "addf610f806adac855ff1c318d46d1c2fa58578077361c6ead21b0c866ed90f3": {
-        "title": "SAIR年度峰会即将开幕，陶哲轩等顶尖科学家共议AI如何重塑科研未来",
-        "link": "https://www.qbitai.com/2026/01/374426.html",
-        "published_date": "Fri, 30 Jan 2026 05:10:00 GMT",
-        "first_seen": "2026-01-30T05:55:11.918450"
-      },
       "0c0251171b75ee56c0b24f9689f210346d5869463fe91bb9de7025139b3f5533": {
         "title": "让世界模型直接控制机器人动作，蚂蚁灵波开源具身世界模型LingBot-VA",
         "link": "https://www.qbitai.com/2026/01/374459.html",
@@ -9719,13 +9773,19 @@
         "link": "https://www.qbitai.com/2026/02/382952.html",
         "published_date": "Sat, 28 Feb 2026 12:59:00 GMT",
         "first_seen": "2026-02-28T23:31:08.323593"
+      },
+      "e5ec1e7834e4e019a0642a7cc028bd5f912fd360f0b926db04c7dd701b8209c3": {
+        "title": "2026-03-01日刊",
+        "link": "https://ai.hubtoday.app//2026-03/2026-03-01/",
+        "published_date": "Sun, 01 Mar 2026 12:56:00 GMT",
+        "first_seen": "2026-03-01T05:58:23.050274"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-02-28T23:31:08.097255",
-    "Finance": "2026-02-28T23:31:08.176828",
-    "Ai": "2026-02-28T23:31:08.323600"
+    "Technology": "2026-03-01T05:58:22.858359",
+    "Finance": "2026-03-01T05:58:22.896308",
+    "Ai": "2026-03-01T05:58:23.050282"
   }
 }
