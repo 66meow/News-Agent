@@ -1,7 +1,18 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-08 05:52
+**最后更新时间**: 2026-03-08 08:43
+
+---
+
+## 🆕 最新更新 (2026-03-08 08:43)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [China signals it wants a Trump visit despite Iran war](https://www.ft.com/content/6886b572-4ae8-4f08-a5f6-1861f96509fb)
+**发布时间**: 2026-03-08 07:20
+
+#### [Israel expands attacks to Iranian oil storage facilities](https://www.ft.com/content/0b7b81e2-6b0c-4e3c-81cb-0d6f3fd60682)
+**发布时间**: 2026-03-08 00:58
 
 ---
 
