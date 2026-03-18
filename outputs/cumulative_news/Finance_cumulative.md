@@ -1,7 +1,32 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-18 06:07
+**最后更新时间**: 2026-03-18 09:01
+
+---
+
+## 🆕 最新更新 (2026-03-18 09:01)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Country music star Miranda Lambert lists Texas estate that includes her childhood home for $1.6 million](https://www.marketwatch.com/story/country-music-star-miranda-lambert-lists-texas-estate-that-includes-her-childhood-home-for-1-6-million-338e258b?mod=mw_rss_topstories)
+**发布时间**: 2026-03-18 08:58
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Rayner warns Starmer his government is ‘running out of time’](https://www.ft.com/content/b614c368-dda0-4623-8bcd-8f7762803d9d)
+**发布时间**: 2026-03-18 07:49
+
+#### [MFS lent to company tied to accountant charged over alleged crime-family work](https://www.ft.com/content/60b4ea7c-ed4a-4873-8498-dab6506a6e4a)
+**发布时间**: 2026-03-18 05:00
+
+#### [Takaichi set for high-stakes meeting with Trump over Iran](https://www.ft.com/content/528ea926-606f-4db6-81f1-dc3831b47f6d)
+**发布时间**: 2026-03-18 02:26
+
+#### [Trump’s Iran strikes blow open divisions in Maga base](https://www.ft.com/content/957e4ae5-9e03-4f62-948b-8e7663b0117d)
+**发布时间**: 2026-03-18 00:09
+
+#### [Israeli air strikes rock central Beirut](https://www.ft.com/content/6112e127-3ee2-4fce-acfc-f7644e5c6c30)
+**发布时间**: 2026-03-17 23:40
 
 ---
 
