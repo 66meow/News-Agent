@@ -1,7 +1,15 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-21 05:51
+**最后更新时间**: 2026-03-21 08:46
+
+---
+
+## 🆕 最新更新 (2026-03-21 08:46)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [EU member states urged to lower gas storage targets due to Iran war](https://www.ft.com/content/f88c6a42-7a83-4fd1-8231-5bc7befa5fca)
+**发布时间**: 2026-03-21 05:00
 
 ---
 
