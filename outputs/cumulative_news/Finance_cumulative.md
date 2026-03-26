@@ -1,7 +1,23 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-26 06:15
+**最后更新时间**: 2026-03-26 09:09
+
+---
+
+## 🆕 最新更新 (2026-03-26 09:09)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘We love real estate’ — Kurt Russell and Goldie Hawn’s colorful past and passion for log homes](https://www.marketwatch.com/story/we-love-real-estate-kurt-russell-and-goldie-hawns-colorful-past-and-passion-for-log-homes-7114e0f1?mod=mw_rss_topstories)
+**发布时间**: 2026-03-26 09:04
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Stagflation is back](https://www.ft.com/content/fe6d2cd9-0e4d-4b84-a882-869a673fcd32)
+**发布时间**: 2026-03-26 05:00
+
+#### [England set to charge foreign tourists for entry to leading museums](https://www.ft.com/content/306e7f2d-fc1d-4a0f-acf0-335289da8e42)
+**发布时间**: 2026-03-26 00:01
 
 ---
 
