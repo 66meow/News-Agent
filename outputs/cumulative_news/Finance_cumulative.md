@@ -1,7 +1,26 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-02 06:16
+**最后更新时间**: 2026-04-02 09:13
+
+---
+
+## 🆕 最新更新 (2026-04-02 09:13)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Gold is again falling sharply, with the stock market. Why it’s not behaving the way it used to during a crisis.](https://www.marketwatch.com/story/gold-is-again-falling-sharply-with-the-stock-market-why-its-not-behaving-the-way-it-used-to-during-a-crisis-d40dfa60?mod=mw_rss_topstories)
+**发布时间**: 2026-04-02 09:10
+
+#### [Actress Aubrey Plaza finds a buyer for her $5.8 million Spanish-style L.A. compound where her husband died](https://www.marketwatch.com/story/actress-aubrey-plaza-finds-a-buyer-for-her-5-8-million-spanish-style-l-a-compound-where-her-husband-died-3639a5df?mod=mw_rss_topstories)
+**发布时间**: 2026-04-02 09:04
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [KPMG cleared by UK watchdog over audit of gambling group Entain](https://www.ft.com/content/af212527-eee0-4275-ae3c-c15a22504fc4)
+**发布时间**: 2026-04-02 08:31
+
+#### [How Apple fused Japanese craft with Chinese scale](https://www.ft.com/content/95fda471-0694-4445-8222-30e09b03887b)
+**发布时间**: 2026-04-02 04:00
 
 ---
 
