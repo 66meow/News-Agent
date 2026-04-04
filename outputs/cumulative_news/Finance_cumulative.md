@@ -1,7 +1,15 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-04 06:05
+**最后更新时间**: 2026-04-04 08:56
+
+---
+
+## 🆕 最新更新 (2026-04-04 08:56)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Go to court and lose out on £9bn car finance redress scheme, says FCA boss](https://www.ft.com/content/1b2db60f-df18-4e39-ba87-a9b9188bbd22)
+**发布时间**: 2026-04-04 04:00
 
 ---
 
