@@ -1,7 +1,23 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-12 06:27
+**最后更新时间**: 2026-04-12 09:02
+
+---
+
+## 🆕 最新更新 (2026-04-12 09:02)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Vance leaves Pakistan talks with no deal. How financial markets are reacting.](https://www.marketwatch.com/story/vance-leaves-pakistan-talks-with-no-deal-how-financial-markets-are-reacting-ef6916b3?mod=mw_rss_topstories)
+**发布时间**: 2026-04-12 09:01
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Vance says US and Iran fail to reach deal](https://www.ft.com/content/55e4467b-19c3-433e-851c-2966f60c9f84)
+**发布时间**: 2026-04-12 07:20
+
+#### [Robinhood excludes some prediction markets over manipulation fears](https://www.ft.com/content/84ddcfaf-f16a-481e-9986-c3e8af5653ac)
+**发布时间**: 2026-04-12 06:57
 
 ---
 
