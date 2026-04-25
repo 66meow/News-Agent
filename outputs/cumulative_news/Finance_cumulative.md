@@ -1,7 +1,15 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-25 06:24
+**最后更新时间**: 2026-04-25 09:06
+
+---
+
+## 🆕 最新更新 (2026-04-25 09:06)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [America’s bid for energy supremacy is being forged in war](https://ig.ft.com/global-energy-flows/)
+**发布时间**: 2026-04-25 04:00
 
 ---
 
