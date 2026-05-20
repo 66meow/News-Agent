@@ -1,7 +1,108 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-19 00:16
+**最后更新时间**: 2026-05-20 00:18
+
+---
+
+## 🆕 最新更新 (2026-05-20 00:18)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [【钛晨报】事关小微企业金融服务工作，国家金融监督管理总局最新部署；DeepSeek:特殊字符引发模型幻觉，不涉及安全问题或隐私泄露；长江存储发布首次公开发行股票并上市辅导备案报告](https://www.tmtpost.com/7994015.html)
+**发布时间**: 2026-05-20 07:20
+
+#### [一季度AI广告收入暴涨170%，B站：模型没有，广告管够](https://www.tmtpost.com/7994018.html)
+**发布时间**: 2026-05-19 22:09
+
+#### [“忽悠式”回购“翻车”，广汇能源与“新疆首富”仍在困局之中](https://www.tmtpost.com/7993965.html)
+**发布时间**: 2026-05-19 20:49
+
+#### [广州酒家拟发10亿可转债再启扩张，增收不增利困局待解](https://www.tmtpost.com/7993857.html)
+**发布时间**: 2026-05-19 19:48
+
+#### [独家对话银河通用张直政：我们找到了VLA和世界模型的融合之路](https://www.tmtpost.com/7993834.html)
+**发布时间**: 2026-05-19 19:26
+
+#### [特朗普再次访华！6本书看懂中美会谈的关键](https://www.tmtpost.com/7993651.html)
+**发布时间**: 2026-05-19 17:45
+
+#### [“搞钱”，才是Revolution千亿神话密码](https://www.tmtpost.com/7993648.html)
+**发布时间**: 2026-05-19 17:38
+
+#### [前瞻2026丨即饮咖啡，走到“十字路口”？](https://www.tmtpost.com/7993626.html)
+**发布时间**: 2026-05-19 17:35
+
+#### [体面退场，或许也是三星手机最好的“归宿”](https://www.tmtpost.com/7993646.html)
+**发布时间**: 2026-05-19 17:35
+
+#### [唐杰的上联，姚顺雨的下联](https://www.tmtpost.com/7993233.html)
+**发布时间**: 2026-05-19 15:23
+
+#### [独家一线调研：碳酸锂涨到多少，储能就玩不动了？](https://www.tmtpost.com/7993522.html)
+**发布时间**: 2026-05-19 15:22
+
+#### [吉利德深陷CAR-T泥潭](https://www.tmtpost.com/7993494.html)
+**发布时间**: 2026-05-19 14:58
+
+#### [Coding的中场战事](https://www.tmtpost.com/7993450.html)
+**发布时间**: 2026-05-19 14:50
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Moonrepo发布moon v2.0：引入WASM插件工具链并重构CLI](https://www.infoq.cn/article/0bxNrhH2ott9yfRwpCJW?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-19 19:28
+
+#### [蜂群Agent来了！openJiuwen社区发布JiuwenSwarm，引领Coordination Engineering新范式](https://www.infoq.cn/article/eyoS3WVdltWbqJXuygQi?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-19 18:54
+
+#### [Pinterest 工程师消除 CPU 僵尸进程，解决生产环境瓶颈](https://www.infoq.cn/article/lbvCd6Ba01X8hgxwS1G3?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-19 18:04
+
+#### [AMD苏妈对话李开复：AI转型只能由CEO驱动、未来“DRI”（直接负责人）将是企业核心｜直击现场](https://www.infoq.cn/article/jFHWeWQONCamboTNyw5l?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-19 16:50
+
+#### [8大岗位AI技能图谱](https://www.infoq.cn/minibook/TiDmbxOjtLAqgX12x5Ip?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-19 16:46
+
+#### [Anthropic发布工程事故报告，说明六周来Claude Code质量下降源于三项产品调整](https://www.infoq.cn/article/yxuH0IZNUvwPGdAEKCFX?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-19 16:07
+
+#### [05·29 腾讯云「数据库+AI」产品发布会重磅启幕](https://www.infoq.cn/article/FAhJ08IG1ffzxw1OYYza?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-19 14:50
+
+#### [Airbnb 采用基于上下文的身份识别模型，支持隐私优先的社交功能](https://www.infoq.cn/article/IfmltpVtyyg7Lv9ruzzo?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-19 13:46
+
+#### [Anthropic首次揭秘下一代Claude怎么造！用户吐槽直接喂模型，连AI“做梦”都被训练](https://www.infoq.cn/article/8AFM65dK2wFMypqoz6ok?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-19 13:21
+
+#### [消息积压方面的数学知识：用于队列恢复的容量规划](https://www.infoq.cn/article/bvEPpX9sYTOZJsFzUKEf?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-19 12:00
+
+#### [Netflix借助Apache Druid中的区间感知缓存让84%的查询结果直接命中缓存](https://www.infoq.cn/article/h9FlLwbtrwbF88BSISss?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-19 10:18
+
+#### [小红书 vibe coding 平台（Muse）之高可用人机共创 Agentic 系统架构实践｜AICon上海](https://www.infoq.cn/article/0cMu1bsEszkZDf09OP2M?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-19 10:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [社区速递 141 | 派友下午三点的「精神快充」、复古磁带机与特殊的新玩意](https://sspai.com/post/109928)
+**发布时间**: 2026-05-19 17:03
+
+#### [线下活动｜听完这首，不再 Emo：Leon x 少数派萨克斯音乐奏享会](https://sspai.com/post/109724)
+**发布时间**: 2026-05-19 15:00
+
+#### [YoooClaw C·ONE 体验：为 AI Agent 而生的硬件，怎样构筑了数字化的「我」？](https://sspai.com/post/109889)
+**发布时间**: 2026-05-19 11:04
+
+#### [派早报：红魔发布红魔 11S Pro 系列手机等](https://sspai.com/post/109908)
+**发布时间**: 2026-05-19 07:57
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [有人花 3 天做了个开源工具，一句话生成各种场景的 HTML。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247533794&idx=1&sn=fdfd8d2964aad1c68bc9d48bae56eb74)
+**发布时间**: 2026-05-19 15:19
 
 ---
 
