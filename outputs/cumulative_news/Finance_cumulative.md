@@ -1,7 +1,33 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-02 00:19
+**最后更新时间**: 2026-07-02 08:19
+
+---
+
+## 🆕 最新更新 (2026-07-02 08:19)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Russia unleashes huge bombardment of Kyiv](https://www.ft.com/content/f85948e6-d779-4d74-9a59-56e83c3534d6)
+**发布时间**: 2026-07-02 08:14
+
+#### [Quantum Systems weighs merger with kamikaze drone start-up Stark](https://www.ft.com/content/e295af40-1e3a-45df-8ae3-886bffe23df9)
+**发布时间**: 2026-07-02 07:00
+
+#### [OpenAI proposes handing Trump administration 5% stake](https://www.ft.com/content/7c803eab-8e80-4431-9a87-e943bf00e00b)
+**发布时间**: 2026-07-02 04:00
+
+#### [Trump’s billion-dollar makeover of Washington DC](https://ig.ft.com/trump-dc/)
+**发布时间**: 2026-07-02 04:00
+
+#### [The economics of women’s weight](https://www.ft.com/content/a7a9bfbf-9743-473b-897f-6a91ad3fa0a9)
+**发布时间**: 2026-07-02 04:00
+
+#### [Can Kevin Warsh tame the Fed’s $7tn balance sheet?](https://www.ft.com/content/86f9a870-8198-47aa-a89f-56e7f148b9fb)
+**发布时间**: 2026-07-02 04:00
+
+#### [Sony is first console giant to stop making physical games](https://www.ft.com/content/c1a7b7de-2d82-469b-80d5-0f9ef0e95420)
+**发布时间**: 2026-07-02 02:54
 
 ---
 
