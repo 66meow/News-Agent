@@ -1,7 +1,34 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-07-15 10:09
+**最后更新时间**: 2026-07-16 07:27
+
+---
+
+## 🆕 最新更新 (2026-07-16 07:27)
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-07-16日刊](https://hex2077.dev/docs/2026-07/2026-07-16/)
+**发布时间**: 2026-07-16 10:45
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [一句「哈哈」引发的苹果OpenAI窃密大战](https://www.qbitai.com/2026/07/450921.html)
+**发布时间**: 2026-07-16 04:47
+
+#### [从上海到世界：WAICA正以“AI原生”范式重写顶会规则](https://www.qbitai.com/2026/07/450917.html)
+**发布时间**: 2026-07-16 04:02
+
+#### [用世界模型给VLA当教练，原力灵机发布DW0.5，把RL搬进虚拟世界](https://www.qbitai.com/2026/07/450896.html)
+**发布时间**: 2026-07-16 02:30
+
+#### [测量精度突破1微米，效率提升3倍，优可测高精度闪测仪发布](https://www.qbitai.com/2026/07/450841.html)
+**发布时间**: 2026-07-15 09:45
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Towards demystifying the creativity of diffusion models](https://research.google/blog/towards-demystifying-the-creativity-of-diffusion-models/)
+**发布时间**: 2026-07-15 18:06
 
 ---
 
