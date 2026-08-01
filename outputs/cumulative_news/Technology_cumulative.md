@@ -1,7 +1,98 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-01 00:09
+**最后更新时间**: 2026-08-01 13:35
+
+---
+
+## 🆕 最新更新 (2026-08-01 13:35)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [WAIC 收官真心话：数百家机器人刷屏背后，AI 究竟重写了什么？](https://www.infoq.cn/article/D9d8F0SUE4gCrXbbyU8N?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-01 17:20
+
+#### [92% 工程师都在用 AI 后，Uber 开始给 AI “限额”了](https://www.infoq.cn/article/Iu2dhFs8JiFqoUGuXJ4m?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-01 14:05
+
+#### [Quick BI 数据分析智能体的可靠工程实践｜AICon深圳](https://www.infoq.cn/article/VJ3s26QZUG1C5ANF2O4Q?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-01 10:00
+
+#### [硬停止规则：从 3 个 HCM 单体应用到 120 个领域微服务](https://www.infoq.cn/article/1GC0U88AkvaWbqO1DNlR?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-01 10:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [AI大厂，打起了“Token奶茶大战”](https://www.tmtpost.com/8088011.html)
+**发布时间**: 2026-08-01 17:06
+
+#### [数百万本书，被Claude“阅后即焚”](https://www.tmtpost.com/8088012.html)
+**发布时间**: 2026-08-01 16:41
+
+#### [字节为什么一定要拆飞书？](https://www.tmtpost.com/8088001.html)
+**发布时间**: 2026-08-01 16:41
+
+#### [蔡崇信这场离婚，没瓜可吃才是最该看懂的事](https://www.tmtpost.com/8088043.html)
+**发布时间**: 2026-08-01 16:33
+
+#### [一群富豪的牛津梦，标价108万](https://www.tmtpost.com/8087957.html)
+**发布时间**: 2026-08-01 16:19
+
+#### [“榨”出硅的极限：怎么让GPU不“闲着”？](https://www.tmtpost.com/8088046.html)
+**发布时间**: 2026-08-01 16:19
+
+#### [自研大模型的马斯克，把豆包装进了特斯拉](https://www.tmtpost.com/8087804.html)
+**发布时间**: 2026-08-01 16:19
+
+#### [车型越多，死得越快？全球车企正在抛弃车海战术](https://www.tmtpost.com/8087383.html)
+**发布时间**: 2026-08-01 16:19
+
+#### [撤档、提档、空降、点映，什么制造了史上最激烈的暑期档](https://www.tmtpost.com/8087665.html)
+**发布时间**: 2026-08-01 16:19
+
+#### [Qwen还是看到了开源的好](https://www.tmtpost.com/8087652.html)
+**发布时间**: 2026-08-01 16:19
+
+#### [重组ToB业务，字节在赌什么？](https://www.tmtpost.com/8087590.html)
+**发布时间**: 2026-08-01 16:19
+
+#### [“非洲之王”传音控股：“V型”反弹之后，市场在犹豫什么？](https://www.tmtpost.com/8087203.html)
+**发布时间**: 2026-08-01 16:19
+
+#### [苹果的5万亿美元时刻：最强财报，最弱AI](https://www.tmtpost.com/8087556.html)
+**发布时间**: 2026-08-01 16:19
+
+#### [独家|行深智能创始人退出公司管理，C轮资方全面接管](https://www.tmtpost.com/8087401.html)
+**发布时间**: 2026-08-01 16:19
+
+#### [存储巨头赚翻了，下游扛不住了](https://www.tmtpost.com/8087502.html)
+**发布时间**: 2026-08-01 16:19
+
+#### [FCC禁令之后，具身智能企业还能站上CES2027么？｜ 出海参考](https://www.tmtpost.com/8087586.html)
+**发布时间**: 2026-08-01 14:31
+
+#### [谁在成为人形机器人的Tier 1？](https://www.tmtpost.com/8087356.html)
+**发布时间**: 2026-08-01 10:18
+
+#### [少投入不是苹果的免死金牌](https://www.tmtpost.com/8087406.html)
+**发布时间**: 2026-08-01 10:18
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [「弯道超车」赛车入门指北：进站不只为换胎，策略里的那本时间账](https://sspai.com/post/112701)
+**发布时间**: 2026-08-01 12:54
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [3 个最近在 GitHub 上非常火火火的项目，最后一个有创意。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247535657&idx=1&sn=8d2c507794ca4e7133a1e15aeac20eee)
+**发布时间**: 2026-08-01 11:26
+
+#### [知名搜索框架 Firecrawl 开源的 Web Agent。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247535657&idx=2&sn=b1bdc5b6ee5442e783e2dbeb226bab68)
+**发布时间**: 2026-08-01 11:26
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [Seedance 2.5发布，单次视频时长翻倍；美团上线外卖「等灯停表」功能；长鑫科技突破 4 万亿](http://www.geekpark.net/news/368270)
+**发布时间**: 2026-08-01 08:42
 
 ---
 

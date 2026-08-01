@@ -1,7 +1,59 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-01 00:09
+**最后更新时间**: 2026-08-01 13:35
+
+---
+
+## 🆕 最新更新 (2026-08-01 13:35)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Disappointed by your skimpy pay raise? Blame your healthcare benefits.](https://www.marketwatch.com/story/disappointed-by-your-skimpy-pay-raise-blame-your-healthcare-benefits-8025491b?mod=mw_rss_topstories)
+**发布时间**: 2026-08-01 13:30
+
+#### [Here’s what’s worth streaming in August 2026 on Netflix, Hulu, HBO Max and more](https://www.marketwatch.com/story/heres-whats-worth-streaming-in-august-2026-on-netflix-hulu-hbo-max-and-more-21b78a08?mod=mw_rss_topstories)
+**发布时间**: 2026-08-01 13:01
+
+#### [How to plan for the high cost of having your first kid in your 40s](https://www.marketwatch.com/story/how-to-plan-for-the-high-cost-of-having-your-first-kid-in-your-40s-bfe0c28a?mod=mw_rss_topstories)
+**发布时间**: 2026-08-01 13:00
+
+#### [How much should an AI agent cost? No one can agree — and it’s creating chaos.](https://www.marketwatch.com/story/how-much-should-an-ai-agent-cost-no-one-can-agree-and-its-creating-chaos-288d741e?mod=mw_rss_topstories)
+**发布时间**: 2026-08-01 12:30
+
+#### [Loyalists may miss the old Southwest. Wall Street loves the new one.](https://www.marketwatch.com/story/loyalists-may-miss-the-old-southwest-wall-street-loves-the-new-one-fab88537?mod=mw_rss_topstories)
+**发布时间**: 2026-08-01 12:00
+
+#### [Many boomers are desperate to move but can’t afford to](https://www.marketwatch.com/story/many-boomers-are-desperate-to-move-but-cant-afford-to-6c9907ea?mod=mw_rss_topstories)
+**发布时间**: 2026-08-01 12:00
+
+#### [3 Wall Street strategists on the question every investor is asking: Is the worst over for the stock market?](https://www.marketwatch.com/story/3-wall-street-strategists-on-the-question-every-investor-is-asking-is-the-worst-over-for-the-stock-market-0c06aac4?mod=mw_rss_topstories)
+**发布时间**: 2026-08-01 12:00
+
+#### [The Iran war sent investors into fertilizer stocks — but here’s the China risk everyone’s missing](https://www.marketwatch.com/story/the-iran-war-sent-investors-into-fertilizer-stocks-but-heres-the-china-risk-everyones-missing-7be93b9d?mod=mw_rss_topstories)
+**发布时间**: 2026-08-01 11:30
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Infantino’s U-turn fuels doubts about his future at Fifa](https://www.ft.com/content/c0d97297-98ed-452f-bdfd-1f16d53d4eb3?syn-25a6b1a6=1)
+**发布时间**: 2026-08-01 13:00
+
+#### [Sánchez hits out at EU leaders over criticism of Spain’s migrant crisis](https://www.ft.com/content/1b3f09b5-897e-4b7a-9949-2c4d9a32929e?syn-25a6b1a6=1)
+**发布时间**: 2026-08-01 11:20
+
+#### [Fifa abandons $20bn investment plan after global backlash](https://www.ft.com/content/58400cf0-20df-46ef-975b-7414806e09de?syn-25a6b1a6=1)
+**发布时间**: 2026-08-01 10:03
+
+#### [The war dividend](https://www.ft.com/content/523aa460-0f70-4afd-bd9a-5ab078624931?syn-25a6b1a6=1)
+**发布时间**: 2026-08-01 04:00
+
+#### [Humbling times for markets](https://www.ft.com/content/e41dadef-c473-48ff-9fa5-30b56d40af34?syn-25a6b1a6=1)
+**发布时间**: 2026-08-01 04:00
+
+#### [Situational Awareness got the future right but misread the past](https://www.ft.com/content/20af5836-51b0-4a37-a820-9de1583a18b4?syn-25a6b1a6=1)
+**发布时间**: 2026-08-01 04:00
+
+#### [Trouble at lunchtime as Hong Kong private club spat escalates](https://www.ft.com/content/da564e49-d7bb-48c9-a5d9-b847b596b23e?syn-25a6b1a6=1)
+**发布时间**: 2026-08-01 02:10
 
 ---
 
